@@ -9,7 +9,13 @@
 
 ---
 
-## 1. O que foi corrigido na 3ª rodada — item a item
+## Nota de 05/11 (texto reescrito depois desta revisão)
+
+Depois da 5ª rodada, o texto narrativo da página foi reescrito para responder às dúvidas de leitura levantadas pelo Gemini 3.8 High (`reescrita/DUVIDAS.md`) e segue o `reescrita/BRIEFING.md`. Uma revisão focada do texto novo, em sessão isolada com MiniMax M3.1 Flash, reconferiu os números contra o `BRIEFING.md`, o `RELATORIO.md` e as saídas do pacote: 2.124/738; 2.130/744; 8.613 avisos em 12 tipos; 876 fora = 237 flora + 639 fauna; 46 × 45; 0,54/0,66/0,89; −0,60/+0,43; p = 0,303; 32 números conferidos. Não encontrou erro de conta. Os ajustes feitos a partir dela: procedência da amostra e comparação por grupo na abertura da seção 4; 0,66 explicitado; Spearman nomeado; “intervalo de 95% dos embaralhamentos”; 900 aves + 600 mamíferos; os dois erros da primeira versão nomeados; “mesma correlação em outra escala” no lugar de “outro par”. A ressalva dos 1.948 registros com incerteza > 5 km (176 válidos) permanece na seção Ressalvas.
+
+---
+
+## 1. O que foi corrigido na 3ª rodada - item a item
 
 Verifiquei os oito pontos da sua lista. **Todos os oito foram de fato corrigidos**, cada um no arquivo-fonte certo.
 
