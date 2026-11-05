@@ -1,0 +1,79 @@
+tabela_destino,campo_destino,tabela_origem,campo_origem,obrigatorio,tipo_dado,transformacao,descricao
+local,id_local,municipios_locais,id_local,TRUE,character,as.character,Identificador unico do local de amostragem
+local,nome_local,municipios_locais,nome_local,TRUE,character,as.character,Nome do local ou municipio
+local,municipio,municipios_locais,municipio,TRUE,character,as.character,Nome padronizado do municipio
+local,codigo_ibge,municipios_locais,codigo_ibge,TRUE,character,as.character,Codigo IBGE do municipio (7 digitos)
+local,lat,municipios_locais,lat,TRUE,numeric,as.numeric,Latitude decimal do centroide ou ponto amostral
+local,lon,municipios_locais,lon,TRUE,numeric,as.numeric,Longitude decimal do centroide ou ponto amostral
+local,tipo_area,municipios_locais,tipo_area,FALSE,character,as.character,Tipo de area ou contexto de paisagem
+local,uc,municipios_locais,uc,FALSE,character,as.character,Unidade de Conservacao mais proxima ou associada
+local,obs,municipios_locais,obs,FALSE,character,as.character,Observacoes ecologicas ou logisticas
+observacao,id_observacao,gbif_flora,key,TRUE,character,prefixar_obs_flora,Identificador unico da observacao
+observacao,id_local,gbif_flora,id_local,FALSE,character,as.character,Identificador do local vinculado via point-in-polygon
+observacao,data,gbif_flora,eventDate,FALSE,date,formatar_data_iso,Data da observacao de campo
+observacao,grupo,gbif_flora,kingdom,FALSE,character,padronizar_grupo_flora,Grupo taxonomico da observacao
+observacao,especie,gbif_flora,scientificName,TRUE,character,limpar_nome_cientifico,Chave para a tabela especie
+observacao,nome_comum,gbif_flora,vernacularName,FALSE,character,as.character,Nome popular ou vernacular registrado
+observacao,individuos,gbif_flora,individualCount,FALSE,numeric,padronizar_contagem,Contagem de individuos (NA se nao reportada)
+observacao,categoria,gbif_flora,basisOfRecord,FALSE,character,as.character,Categoria do registro biologico
+observacao,incerteza_metros,gbif_flora,coordinateUncertaintyInMeters,FALSE,numeric,as.numeric,Incerteza da coordenada em metros
+observacao,fonte,gbif_flora,datasetName,FALSE,character,atribuir_fonte_flora,Origem do dado bruto
+observacao,id_registro_original,gbif_flora,key,TRUE,character,as.character,Identificador original no conjunto de dados
+observacao,lat,gbif_flora,decimalLatitude,TRUE,numeric,as.numeric,Latitude decimal
+observacao,lon,gbif_flora,decimalLongitude,TRUE,numeric,as.numeric,Longitude decimal
+observacao,familia,gbif_flora,family,FALSE,character,as.character,Familia taxonomica da flora
+observacao,ordem,gbif_flora,order,FALSE,character,as.character,Ordem taxonomica da flora
+observacao,nome_aceito,gbif_flora,acceptedScientificName,FALSE,character,limpar_nome_cientifico,Nome cientifico aceito
+observacao,origem,gbif_flora,establishmentMeans,FALSE,character,as.character,Origem ou status de introducao
+observacao,status_conservacao,gbif_flora,iucnRedListCategory,FALSE,character,as.character,Categoria de ameaca na Lista Vermelha IUCN
+observacao,id_observacao,gbif_fauna,key,TRUE,character,prefixar_obs_fauna,Identificador unico da observacao
+observacao,id_local,gbif_fauna,id_local,FALSE,character,as.character,Identificador do local vinculado via point-in-polygon
+observacao,data,gbif_fauna,eventDate,FALSE,date,formatar_data_iso,Data da observacao de campo
+observacao,grupo,gbif_fauna,class,FALSE,character,padronizar_grupo_fauna,Grupo taxonomico da observacao (Aves/Mammalia)
+observacao,especie,gbif_fauna,scientificName,TRUE,character,limpar_nome_cientifico,Chave para a tabela especie
+observacao,nome_comum,gbif_fauna,vernacularName,FALSE,character,as.character,Nome popular ou vernacular registrado
+observacao,individuos,gbif_fauna,individualCount,FALSE,numeric,padronizar_contagem,Contagem de individuos (NA se nao reportada)
+observacao,categoria,gbif_fauna,basisOfRecord,FALSE,character,as.character,Categoria do registro biologico
+observacao,incerteza_metros,gbif_fauna,coordinateUncertaintyInMeters,FALSE,numeric,as.numeric,Incerteza da coordenada em metros
+observacao,fonte,gbif_fauna,datasetName,FALSE,character,atribuir_fonte_fauna,Origem do dado bruto
+observacao,id_registro_original,gbif_fauna,key,TRUE,character,as.character,Identificador original no conjunto de dados
+observacao,lat,gbif_fauna,decimalLatitude,TRUE,numeric,as.numeric,Latitude decimal
+observacao,lon,gbif_fauna,decimalLongitude,TRUE,numeric,as.numeric,Longitude decimal
+observacao,familia,gbif_fauna,family,FALSE,character,as.character,Familia taxonomica da fauna
+observacao,ordem,gbif_fauna,order,FALSE,character,as.character,Ordem taxonomica da fauna
+observacao,nome_aceito,gbif_fauna,acceptedScientificName,FALSE,character,limpar_nome_cientifico,Nome cientifico aceito
+observacao,origem,gbif_fauna,establishmentMeans,FALSE,character,as.character,Origem ou status de introducao
+observacao,status_conservacao,gbif_fauna,iucnRedListCategory,FALSE,character,as.character,Categoria de ameaca na Lista Vermelha IUCN
+observacao,id_observacao,minha_flora,id_observacao,FALSE,character,gerar_id_linha,Identificador unico gerado
+observacao,data,minha_flora,Dt_Coleta,FALSE,date,formatar_data_iso,Data da observacao de campo
+observacao,especie,minha_flora,Sp_Name,TRUE,character,limpar_nome_cientifico,Nome da especie de campo
+observacao,individuos,minha_flora,Qtde,FALSE,numeric,padronizar_contagem,Quantidade contada (NA se ausente)
+observacao,lat,minha_flora,Lat,TRUE,numeric,as.numeric,Latitude decimal
+observacao,lon,minha_flora,Lon,TRUE,numeric,as.numeric,Longitude decimal
+paisagem,id_local,paisagem,id_local,TRUE,character,as.character,Identificador do local (municipio)
+paisagem,ano,paisagem,ano,TRUE,integer,as.integer,"Ano da cobertura MapBiomas (2015, 2020, 2024)"
+paisagem,buffer_m,paisagem,buffer_m,TRUE,integer,as.integer,Raio do buffer em metros (0 para municipio inteiro)
+paisagem,area_nativa_km2,paisagem,area_nativa_km2,TRUE,numeric,as.numeric,Area de vegetacao nativa em km2
+paisagem,area_pastagem_km2,paisagem,area_pastagem_km2,TRUE,numeric,as.numeric,Area de pastagem em km2
+paisagem,area_agricultura_km2,paisagem,area_agricultura_km2,TRUE,numeric,as.numeric,Area de agricultura em km2
+paisagem,area_agua_km2,paisagem,area_agua_km2,TRUE,numeric,as.numeric,Area de corpos dagua em km2
+paisagem,area_total_km2,paisagem,area_total_km2,TRUE,numeric,as.numeric,Area total recortada em km2
+paisagem,pct_nativa,paisagem,pct_nativa,TRUE,numeric,as.numeric,Percentual de vegetacao nativa
+paisagem,pct_pastagem,paisagem,pct_pastagem,TRUE,numeric,as.numeric,Percentual de pastagem
+paisagem,pct_agricultura,paisagem,pct_agricultura,TRUE,numeric,as.numeric,Percentual de agricultura
+paisagem,pct_agua,paisagem,pct_agua,TRUE,numeric,as.numeric,Percentual de agua
+social,codigo_ibge,social_municipios,codigo_ibge,TRUE,character,as.character,Codigo IBGE do municipio
+social,ano,social_municipios,ano,TRUE,integer,as.integer,Ano de referencia dos indicadores economicos
+social,populacao,social_municipios,populacao,TRUE,integer,as.integer,Populacao residente segundo o Censo 2022
+social,pop_rural_pct,social_municipios,pop_rural_pct,TRUE,numeric,as.numeric,Percentual de populacao rural (Censo 2010)
+social,pib_mil_reais,social_municipios,pib_mil_reais,TRUE,numeric,as.numeric,PIB total a precos correntes em mil reais (2021)
+social,pib_per_capita,social_municipios,pib_per_capita,TRUE,numeric,as.numeric,PIB per capita em reais (PIB 2021 / Pop 2022)
+social,agro_pct_pib,social_municipios,agro_pct_pib,TRUE,numeric,as.numeric,Participacao da agropecuaria no PIB (percentual)
+social,fonte,social_municipios,fonte,TRUE,character,as.character,Fonte dos dados socioeconomicos
+perfil,id_propriedade,modelo_perfil,id_propriedade,TRUE,character,as.character,Identificador unico da propriedade/entrevista
+perfil,id_local,modelo_perfil,id_local,TRUE,character,as.character,Identificador do local vinculado
+perfil,ano,modelo_perfil,ano,TRUE,integer,as.integer,Ano da coleta dos dados da propriedade
+perfil,variavel,modelo_perfil,variavel,TRUE,character,as.character,Nome da variavel socioambiental
+perfil,valor,modelo_perfil,valor,TRUE,character,as.character,Valor da variavel registrada
+perfil,unidade,modelo_perfil,unidade,FALSE,character,as.character,Unidade de medida da variavel
+perfil,fonte,modelo_perfil,fonte,TRUE,character,as.character,Instrumento ou fonte de dados

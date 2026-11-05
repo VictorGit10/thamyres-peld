@@ -1,0 +1,7 @@
+id_local,nome_local,municipio,codigo_ibge,lat,lon,tipo_area,uc,obs
+LOC_CAI,Caiapônia,Caiapônia,5204409,-16.93669,-51.816349,Entorno PELD,APA Serra das Araras (proxima),Regiao ecotonica Cerrado-Floresta
+LOC_JAT,Jataí,Jataí,5211909,-17.903421,-51.670962,Sede PELD / Polo Regional,APA Municipal,Campus Jatai / Nucleo PELD
+LOC_MIN,Mineiros,Mineiros,5213103,-17.399829,-52.707853,Entorno PELD / Parque Emas,Parna das Emas (entorno),Importante divisor hidrografico
+LOC_PER,Perolândia,Perolândia,5216452,-17.476477,-52.197383,Entorno PELD,Area de amortecimento,Uso agropastoril e remanescentes
+LOC_RVE,Rio Verde,Rio Verde,5218805,-17.726791,-51.003765,Polo Agroindustrial,Sem UC de protecao integral,Predominio de lavouras intensivas
+LOC_SER,Serranópolis,Serranópolis,5220504,-18.273454,-52.192907,Entorno PELD / RPPN,RPPN Pousada das Araras,Remanescentes expressivos de Cerrado rupestre

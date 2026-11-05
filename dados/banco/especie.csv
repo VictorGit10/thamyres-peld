@@ -1,0 +1,739 @@
+id_especie,nome_cientifico,nome_aceito,familia,ordem,grupo,origem,status_conservacao
+ESP_001,"Alectrurus tricolor (Vieillot, 1816)","Alectrurus tricolor (Vieillot, 1816)",Tyrannidae,Passeriformes,Aves,Nativa,VU
+ESP_002,"Alopochelidon fucata (Temminck, 1822)","Alopochelidon fucata (Temminck, 1822)",Hirundinidae,Passeriformes,Aves,Nativa,LC
+ESP_003,"Amazona aestiva (Linnaeus, 1758)","Amazona aestiva (Linnaeus, 1758)",Psittacidae,Psittaciformes,Aves,Nativa,NT
+ESP_004,"Amazona xanthops (Spix, 1824)","Amazona xanthops (Spix, 1824)",Psittacidae,Psittaciformes,Aves,Nativa,LC
+ESP_005,"Amazonetta brasiliensis (J.F.Gmelin, 1789)","Amazonetta brasiliensis (J.F.Gmelin, 1789)",Anatidae,Anseriformes,Aves,Nativa,LC
+ESP_006,"Ammodramus humeralis (Bosc, 1792)","Ammodramus humeralis (Bosc, 1792)",Passerellidae,Passeriformes,Aves,Nativa,LC
+ESP_007,"Ara ararauna (Linnaeus, 1758)","Ara ararauna (Linnaeus, 1758)",Psittacidae,Psittaciformes,Aves,Nativa,LC
+ESP_008,"Ara chloropterus G.R.Gray, 1859","Ara chloropterus G.R.Gray, 1859",Psittacidae,Psittaciformes,Aves,Nativa,LC
+ESP_009,"Aramides cajanea (Statius Muller, 1776)","Aramides cajanea (Statius Muller, 1776)",Rallidae,Gruiformes,Aves,Nativa,LC
+ESP_010,"Aratinga aurea (Gmelin, 1788)","Aratinga aurea (Gmelin, 1788)",Psittacidae,Psittaciformes,Aves,Nativa,LC
+ESP_011,"Aratinga leucophthalma (Statius Muller, 1776)","Aratinga leucophthalma (Statius Muller, 1776)",Psittacidae,Psittaciformes,Aves,Nativa,LC
+ESP_012,"Ardea alba Linnaeus, 1758","Ardea alba Linnaeus, 1758",Ardeidae,Pelecaniformes,Aves,Nativa,LC
+ESP_013,"Arundinicola leucocephala (Linnaeus, 1764)","Arundinicola leucocephala (Linnaeus, 1764)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_014,"Athene cunicularia (Molina, 1782)","Athene cunicularia (Molina, 1782)",Strigidae,Strigiformes,Aves,Nativa,LC
+ESP_015,"Brotogeris chiriri (Vieillot, 1818)","Brotogeris chiriri (Vieillot, 1818)",Psittacidae,Psittaciformes,Aves,Nativa,LC
+ESP_016,"Buteo albicaudatus Vieillot, 1816","Buteo albicaudatus Vieillot, 1816",Accipitridae,Accipitriformes,Aves,Nativa,LC
+ESP_017,"Buteogallus meridionalis (Latham, 1790)","Buteogallus meridionalis (Latham, 1790)",Accipitridae,Accipitriformes,Aves,Nativa,LC
+ESP_018,"Campephilus melanoleucos (J.F.Gmelin, 1788)","Campephilus melanoleucos (J.F.Gmelin, 1788)",Picidae,Piciformes,Aves,Nativa,LC
+ESP_019,"Caracara plancus (J.F.Miller, 1777)","Caracara plancus (J.F.Miller, 1777)",Falconidae,Falconiformes,Aves,Nativa,LC
+ESP_020,"Cariama cristata (Linnaeus, 1766)","Cariama cristata (Linnaeus, 1766)",Cariamidae,Cariamiformes,Aves,Nativa,LC
+ESP_021,"Casiornis rufus (Vieillot, 1816)","Casiornis rufus (Vieillot, 1816)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_022,"Cathartes aura (Linnaeus, 1758)","Cathartes aura (Linnaeus, 1758)",Cathartidae,Accipitriformes,Aves,Nativa,LC
+ESP_023,"Cathartes aura ruficollis Spix, 1824","Cathartes aura ruficollis Spix, 1824",Cathartidae,Accipitriformes,Aves,Nativa,LC
+ESP_024,"Cathartes burrovianus Cassin, 1845","Cathartes burrovianus Cassin, 1845",Cathartidae,Accipitriformes,Aves,Nativa,LC
+ESP_025,"Chelidoptera tenebrosa (Pallas, 1782)","Chelidoptera tenebrosa (Pallas, 1782)",Bucconidae,Piciformes,Aves,Nativa,LC
+ESP_026,"Chiroxiphia Cabanis, 1847","Chiroxiphia Cabanis, 1847",Pipridae,Passeriformes,Aves,Nativa,LC
+ESP_027,"Circus buffoni (Gmelin, 1788)","Circus buffoni (Gmelin, 1788)",Accipitridae,Accipitriformes,Aves,Nativa,LC
+ESP_028,"Cistothorus platensis (Latham, 1790)","Cistothorus platensis (Latham, 1790)",Troglodytidae,Passeriformes,Aves,Nativa,LC
+ESP_029,"Coereba flaveola (Linnaeus, 1758)","Coereba flaveola (Linnaeus, 1758)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_030,"Colaptes campestris (Vieillot, 1818)","Colaptes campestris (Vieillot, 1818)",Picidae,Piciformes,Aves,Nativa,LC
+ESP_031,"Colaptes melanochloros (J.F.Gmelin, 1788)","Colaptes melanochloros (J.F.Gmelin, 1788)",Picidae,Piciformes,Aves,Nativa,LC
+ESP_032,"Colibri serrirostris (Vieillot, 1816)","Colibri serrirostris (Vieillot, 1816)",Trochilidae,Apodiformes,Aves,Nativa,LC
+ESP_033,"Columba livia J.F.Gmelin, 1789","Columba livia J.F.Gmelin, 1789",Columbidae,Columbiformes,Aves,Nativa,LC
+ESP_034,"Columba livia var. domestica J.F.Gmelin, 1789","Columba livia var. domestica J.F.Gmelin, 1789",Columbidae,Columbiformes,Aves,Nativa,LC
+ESP_035,"Columbina minuta (Linnaeus, 1766)","Columbina minuta (Linnaeus, 1766)",Columbidae,Columbiformes,Aves,Nativa,LC
+ESP_036,"Columbina picui (Temminck, 1813)","Columbina picui (Temminck, 1813)",Columbidae,Columbiformes,Aves,Nativa,LC
+ESP_037,"Columbina squammata (R.Lesson, 1831)","Columbina squammata (R.Lesson, 1831)",Columbidae,Columbiformes,Aves,Nativa,LC
+ESP_038,"Columbina talpacoti (Temminck, 1810)","Columbina talpacoti (Temminck, 1810)",Columbidae,Columbiformes,Aves,Nativa,LC
+ESP_039,"Coragyps atratus (Bechstein, 1793)","Coragyps atratus (Bechstein, 1793)",Cathartidae,Accipitriformes,Aves,Nativa,LC
+ESP_040,"Coryphaspiza melanotis (Temminck, 1822)","Coryphaspiza melanotis (Temminck, 1822)",Thraupidae,Passeriformes,Aves,Nativa,VU
+ESP_041,"Coryphospingus cucullatus (P.L.S.Müller, 1776)","Coryphospingus cucullatus (P.L.S.Müller, 1776)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_042,"Crax fasciolata Spix, 1825","Crax fasciolata Spix, 1825",Cracidae,Galliformes,Aves,Nativa,VU
+ESP_043,"Crotophaga ani Linnaeus, 1758","Crotophaga ani Linnaeus, 1758",Cuculidae,Cuculiformes,Aves,Nativa,LC
+ESP_044,"Crypturellus parvirostris (Wagler, 1827)","Crypturellus parvirostris (Wagler, 1827)",Tinamidae,Tinamiformes,Aves,Nativa,LC
+ESP_045,"Cyanerpes cyaneus (Linnaeus, 1766)","Cyanerpes cyaneus (Linnaeus, 1766)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_046,"Cyanocorax cristatellus (Temminck, 1823)","Cyanocorax cristatellus (Temminck, 1823)",Corvidae,Passeriformes,Aves,Nativa,LC
+ESP_047,"Cyclarhis gujanensis (Gmelin, 1789)","Cyclarhis gujanensis (Gmelin, 1789)",Vireonidae,Passeriformes,Aves,Nativa,LC
+ESP_048,"Cypsnagra hirundinacea (R.Lesson, 1831)","Cypsnagra hirundinacea (R.Lesson, 1831)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_049,"Dacnis cayana (Linnaeus, 1766)","Dacnis cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_050,"Daptrius Vieillot, 1816","Daptrius Vieillot, 1816",Falconidae,Falconiformes,Aves,Nativa,LC
+ESP_051,"Dendrocygna autumnalis (Linnaeus, 1758)","Dendrocygna autumnalis (Linnaeus, 1758)",Anatidae,Anseriformes,Aves,Nativa,LC
+ESP_052,"Diopsittaca nobilis (Linnaeus, 1758)","Diopsittaca nobilis (Linnaeus, 1758)",Psittacidae,Psittaciformes,Aves,Nativa,LC
+ESP_053,"Donacobius atricapilla (Linnaeus, 1766)","Donacobius atricapilla (Linnaeus, 1766)",Donacobiidae,Passeriformes,Aves,Nativa,LC
+ESP_054,"Dryocopus lineatus (Linnaeus, 1766)","Dryocopus lineatus (Linnaeus, 1766)",Picidae,Piciformes,Aves,Nativa,LC
+ESP_055,"Elaenia cristata Pelzeln, 1868","Elaenia cristata Pelzeln, 1868",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_056,"Elanoides forficatus (Linnaeus, 1758)","Elanoides forficatus (Linnaeus, 1758)",Accipitridae,Accipitriformes,Aves,Nativa,LC
+ESP_057,"Emberizoides herbicola (Vieillot, 1817)","Emberizoides herbicola (Vieillot, 1817)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_058,"Empidonomus aurantioatrocristatus (Orbigny & Lafresnaye, 1837)","Empidonomus aurantioatrocristatus (Orbigny & Lafresnaye, 1837)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_059,"Empidonomus varius (Vieillot, 1818)","Empidonomus varius (Vieillot, 1818)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_060,"Eucometis penicillata (Spix, 1825)","Eucometis penicillata (Spix, 1825)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_061,"Eupetomena macroura (J.F.Gmelin, 1788)","Eupetomena macroura (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,Aves,Nativa,LC
+ESP_062,"Euphonia chlorotica (Linnaeus, 1766)","Euphonia chlorotica (Linnaeus, 1766)",Fringillidae,Passeriformes,Aves,Nativa,LC
+ESP_063,"Euscarthmus rufomarginatus (Pelzeln, 1868)","Euscarthmus rufomarginatus (Pelzeln, 1868)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_064,"Falco femoralis Temminck, 1822","Falco femoralis Temminck, 1822",Falconidae,Falconiformes,Aves,Nativa,LC
+ESP_065,"Falco sparverius Linnaeus, 1758","Falco sparverius Linnaeus, 1758",Falconidae,Falconiformes,Aves,Nativa,LC
+ESP_066,"Fluvicola nengeta (Linnaeus, 1766)","Fluvicola nengeta (Linnaeus, 1766)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_067,"Formicivora rufa (Wied-Neuwied, 1831)","Formicivora rufa (Wied-Neuwied, 1831)",Thamnophilidae,Passeriformes,Aves,Nativa,LC
+ESP_068,"Furnarius rufus (Gmelin, 1788)","Furnarius rufus (Gmelin, 1788)",Furnariidae,Passeriformes,Aves,Nativa,LC
+ESP_069,"Galbula ruficauda Cuvier, 1816","Galbula ruficauda Cuvier, 1816",Galbulidae,Piciformes,Aves,Nativa,LC
+ESP_070,"Geothlypis velata (Vieillot, 1809)","Geothlypis velata (Vieillot, 1809)",Parulidae,Passeriformes,Aves,Nativa,LC
+ESP_071,"Gnorimopsar chopi (Vieillot, 1819)","Gnorimopsar chopi (Vieillot, 1819)",Icteridae,Passeriformes,Aves,Nativa,LC
+ESP_072,"Guira guira (Gmelin, 1788)","Guira guira (Gmelin, 1788)",Cuculidae,Cuculiformes,Aves,Nativa,LC
+ESP_073,"Guyramemua affine (Burmeister, 1856)","Guyramemua affine (Burmeister, 1856)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_074,"Heliactin bilophus (Temminck, 1820)","Heliactin bilophus (Temminck, 1820)",Trochilidae,Apodiformes,Aves,Nativa,LC
+ESP_075,"Hemitriccus margaritaceiventer (Orbigny & Lafresnaye, 1837)","Hemitriccus margaritaceiventer (Orbigny & Lafresnaye, 1837)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_076,"Hemitriccus striaticollis (Lafresnaye, 1853)","Hemitriccus striaticollis (Lafresnaye, 1853)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_077,"Herpetotheres cachinnans (Linnaeus, 1758)","Herpetotheres cachinnans (Linnaeus, 1758)",Falconidae,Falconiformes,Aves,Nativa,LC
+ESP_078,"Herpsilochmus longirostris Pelzeln, 1868","Herpsilochmus longirostris Pelzeln, 1868",Thamnophilidae,Passeriformes,Aves,Nativa,LC
+ESP_079,"Hydropsalis torquata (J.F.Gmelin, 1789)","Hydropsalis torquata (J.F.Gmelin, 1789)",Caprimulgidae,Caprimulgiformes,Aves,Nativa,LC
+ESP_080,"Hylocharis chrysura (Shaw, 1812)","Hylocharis chrysura (Shaw, 1812)",Trochilidae,Apodiformes,Aves,Nativa,LC
+ESP_081,"Icterus cayanensis pyrrhopterus (Vieillot, 1819)","Icterus cayanensis pyrrhopterus (Vieillot, 1819)",Icteridae,Passeriformes,Aves,Nativa,LC
+ESP_082,"Jabiru mycteria (Lichtenstein, 1819)","Jabiru mycteria (Lichtenstein, 1819)",Ciconiidae,Ciconiiformes,Aves,Nativa,LC
+ESP_083,"Jacana jacana (Linnaeus, 1766)","Jacana jacana (Linnaeus, 1766)",Jacanidae,Charadriiformes,Aves,Nativa,LC
+ESP_084,"Lathrotriccus euleri (Cabanis, 1868)","Lathrotriccus euleri (Cabanis, 1868)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_085,"Leptotila verreauxi Bonaparte, 1855","Leptotila verreauxi Bonaparte, 1855",Columbidae,Columbiformes,Aves,Nativa,LC
+ESP_086,"Lophornis magnificus (Vieillot, 1817)","Lophornis magnificus (Vieillot, 1817)",Trochilidae,Apodiformes,Aves,Nativa,LC
+ESP_087,"Machetornis rixosa (Vieillot, 1819)","Machetornis rixosa (Vieillot, 1819)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_088,"Megaceryle torquata (Linnaeus, 1766)","Megaceryle torquata (Linnaeus, 1766)",Alcedinidae,Coraciiformes,Aves,Nativa,LC
+ESP_089,"Megarynchus pitangua (Linnaeus, 1766)","Megarynchus pitangua (Linnaeus, 1766)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_090,"Megascops choliba (Vieillot, 1817)","Megascops choliba (Vieillot, 1817)",Strigidae,Strigiformes,Aves,Nativa,LC
+ESP_091,"Melanerpes candidus (Otto, 1796)","Melanerpes candidus (Otto, 1796)",Picidae,Piciformes,Aves,Nativa,LC
+ESP_092,"Melanerpes flavifrons (Vieillot, 1818)","Melanerpes flavifrons (Vieillot, 1818)",Picidae,Piciformes,Aves,Nativa,LC
+ESP_093,"Melanopareia torquata (Wied-Neuwied, 1831)","Melanopareia torquata (Wied-Neuwied, 1831)",Melanopareiidae,Passeriformes,Aves,Nativa,LC
+ESP_094,"Mesembrinibis cayennensis (Gmelin, 1789)","Mesembrinibis cayennensis (Gmelin, 1789)",Threskiornithidae,Pelecaniformes,Aves,Nativa,LC
+ESP_095,"Mimus saturninus (Lichtenstein, 1823)","Mimus saturninus (Lichtenstein, 1823)",Mimidae,Passeriformes,Aves,Nativa,LC
+ESP_096,"Molothrus bonariensis (Gmelin, 1789)","Molothrus bonariensis (Gmelin, 1789)",Icteridae,Passeriformes,Aves,Nativa,LC
+ESP_097,"Myiarchus ferox (Gmelin, 1789)","Myiarchus ferox (Gmelin, 1789)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_098,"Myiarchus tyrannulus (Statius Muller, 1776)","Myiarchus tyrannulus (Statius Muller, 1776)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_099,"Myiodynastes maculatus (Statius Muller, 1776)","Myiodynastes maculatus (Statius Muller, 1776)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_100,"Myiopagis gaimardii (Orbigny, 1840)","Myiopagis gaimardii (Orbigny, 1840)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_101,"Myiothlypis leucophrys (Pelzeln, 1868)","Myiothlypis leucophrys (Pelzeln, 1868)",Parulidae,Passeriformes,Aves,Nativa,LC
+ESP_102,"Neothraupis fasciata (M.H.K.Lichtenstein, 1823)","Neothraupis fasciata (M.H.K.Lichtenstein, 1823)",Thraupidae,Passeriformes,Aves,Nativa,NT
+ESP_103,"Nothura maculosa (Temminck, 1815)","Nothura maculosa (Temminck, 1815)",Tinamidae,Tinamiformes,Aves,Nativa,LC
+ESP_104,"Notiochelidon cyanoleuca (Vieillot, 1817)","Notiochelidon cyanoleuca (Vieillot, 1817)",Hirundinidae,Passeriformes,Aves,Nativa,LC
+ESP_105,"Nystalus chacuru (Vieillot, 1816)","Nystalus chacuru (Vieillot, 1816)",Bucconidae,Piciformes,Aves,Nativa,LC
+ESP_106,"Orthopsittaca manilata (Boddaert, 1783)","Orthopsittaca manilata (Boddaert, 1783)",Psittacidae,Psittaciformes,Aves,Nativa,LC
+ESP_107,"Passer domesticus (Linnaeus, 1758)","Passer domesticus (Linnaeus, 1758)",Passeridae,Passeriformes,Aves,Nativa,LC
+ESP_108,"Patagioenas picazuro (Temminck, 1813)","Patagioenas picazuro (Temminck, 1813)",Columbidae,Columbiformes,Aves,Nativa,LC
+ESP_109,"Penelope superciliaris Temminck, 1815","Penelope superciliaris Temminck, 1815",Cracidae,Galliformes,Aves,Nativa,NT
+ESP_110,"Phacellodomus ruber (Vieillot, 1817)","Phacellodomus ruber (Vieillot, 1817)",Furnariidae,Passeriformes,Aves,Nativa,LC
+ESP_111,"Phalacrocorax brasilianus (Gmelin, 1789)","Phalacrocorax brasilianus (Gmelin, 1789)",Phalacrocoracidae,Suliformes,Aves,Nativa,LC
+ESP_112,"Phyllomyias fasciatus (Thunberg, 1822)","Phyllomyias fasciatus (Thunberg, 1822)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_113,"Piaya cayana (Linnaeus, 1766)","Piaya cayana (Linnaeus, 1766)",Cuculidae,Cuculiformes,Aves,Nativa,LC
+ESP_114,"Picumnus albosquamatus d'Orbigny, 1840","Picumnus albosquamatus d'Orbigny, 1840",Picidae,Piciformes,Aves,Nativa,LC
+ESP_115,"Pitangus sulphuratus (Linnaeus, 1766)","Pitangus sulphuratus (Linnaeus, 1766)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_116,"Polioptila dumicola (Vieillot, 1817)","Polioptila dumicola (Vieillot, 1817)",Polioptilidae,Passeriformes,Aves,Nativa,LC
+ESP_117,"Polystictus pectoralis (Vieillot, 1817)","Polystictus pectoralis (Vieillot, 1817)",Tyrannidae,Passeriformes,Aves,Nativa,NT
+ESP_118,"Porphyrio martinica (Linnaeus, 1766)","Porphyrio martinica (Linnaeus, 1766)",Rallidae,Gruiformes,Aves,Nativa,LC
+ESP_119,"Pseudoleistes guirahuro (Vieillot, 1819)","Pseudoleistes guirahuro (Vieillot, 1819)",Icteridae,Passeriformes,Aves,Nativa,LC
+ESP_120,"Pteroglossus castanotis Gould, 1834","Pteroglossus castanotis Gould, 1834",Ramphastidae,Piciformes,Aves,Nativa,LC
+ESP_121,"Pulsatrix perspicillata (Latham, 1790)","Pulsatrix perspicillata (Latham, 1790)",Strigidae,Strigiformes,Aves,Nativa,LC
+ESP_122,"Pyrocephalus rubinus (Boddaert, 1783)","Pyrocephalus rubinus (Boddaert, 1783)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_123,"Ramphastos toco P.L.S.Müller, 1776","Ramphastos toco P.L.S.Müller, 1776",Ramphastidae,Piciformes,Aves,Nativa,LC
+ESP_124,"Ramphastos vitellinus M.H.K.Lichtenstein, 1823","Ramphastos vitellinus M.H.K.Lichtenstein, 1823",Ramphastidae,Piciformes,Aves,Nativa,LC
+ESP_125,"Rhea americana (Linnaeus, 1758)","Rhea americana (Linnaeus, 1758)",Rheidae,Rheiformes,Aves,Nativa,NT
+ESP_126,"Rupornis magnirostris (Gmelin, 1788)","Rupornis magnirostris (Gmelin, 1788)",Accipitridae,Accipitriformes,Aves,Nativa,LC
+ESP_127,"Saltatricula atricollis (Vieillot, 1817)","Saltatricula atricollis (Vieillot, 1817)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_128,"Setopagis parvula (Gould, 1837)","Setopagis parvula (Gould, 1837)",Caprimulgidae,Caprimulgiformes,Aves,Nativa,LC
+ESP_129,"Setophaga pitiayumi (Vieillot, 1817)","Setophaga pitiayumi (Vieillot, 1817)",Parulidae,Passeriformes,Aves,Nativa,LC
+ESP_130,"Sicalis flaveola (Linnaeus, 1766)","Sicalis flaveola (Linnaeus, 1766)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_131,"Sporophila collaris (Boddaert, 1783)","Sporophila collaris (Boddaert, 1783)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_132,"Sporophila lineola (Linnaeus, 1758)","Sporophila lineola (Linnaeus, 1758)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_133,"Sporophila nigricollis (Vieillot, 1823)","Sporophila nigricollis (Vieillot, 1823)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_134,"Sporophila pileata (P.L.Sclater, 1865)","Sporophila pileata (P.L.Sclater, 1865)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_135,"Sporophila plumbea (Wied-Neuwied, 1830)","Sporophila plumbea (Wied-Neuwied, 1830)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_136,"Stilpnia cayana (Linnaeus, 1766)","Stilpnia cayana (Linnaeus, 1766)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_137,"Sturnella superciliaris (Bonaparte, 1850)","Sturnella superciliaris (Bonaparte, 1850)",Icteridae,Passeriformes,Aves,Nativa,LC
+ESP_138,"Synallaxis frontalis Pelzeln, 1859","Synallaxis frontalis Pelzeln, 1859",Furnariidae,Passeriformes,Aves,Nativa,LC
+ESP_139,"Syrigma sibilatrix (Temminck, 1824)","Syrigma sibilatrix (Temminck, 1824)",Ardeidae,Pelecaniformes,Aves,Nativa,LC
+ESP_140,"Tachornis squamata (Cassin, 1853)","Tachornis squamata (Cassin, 1853)",Apodidae,Apodiformes,Aves,Nativa,LC
+ESP_141,"Tachycineta leucorrhoa (Vieillot, 1817)","Tachycineta leucorrhoa (Vieillot, 1817)",Hirundinidae,Passeriformes,Aves,Nativa,LC
+ESP_142,"Tersina viridis (Illiger, 1811)","Tersina viridis (Illiger, 1811)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_143,"Thalurania furcata (J.F.Gmelin, 1788)","Thalurania furcata (J.F.Gmelin, 1788)",Trochilidae,Apodiformes,Aves,Nativa,LC
+ESP_144,"Thamnophilus doliatus (Linnaeus, 1764)","Thamnophilus doliatus (Linnaeus, 1764)",Thamnophilidae,Passeriformes,Aves,Nativa,LC
+ESP_145,"Theristicus caudatus (Boddaert, 1783)","Theristicus caudatus (Boddaert, 1783)",Threskiornithidae,Pelecaniformes,Aves,Nativa,LC
+ESP_146,"Thraupis palmarum (Wied-Neuwied, 1821)","Thraupis palmarum (Wied-Neuwied, 1821)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_147,"Thraupis sayaca (Linnaeus, 1766)","Thraupis sayaca (Linnaeus, 1766)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_148,"Todirostrum cinereum (Linnaeus, 1766)","Todirostrum cinereum (Linnaeus, 1766)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_149,"Troglodytes musculus J.F.Naumann, 1823","Troglodytes musculus J.F.Naumann, 1823",Troglodytidae,Passeriformes,Aves,Nativa,LC
+ESP_150,"Turdus leucomelas Vieillot, 1818","Turdus leucomelas Vieillot, 1818",Turdidae,Passeriformes,Aves,Nativa,LC
+ESP_151,"Tyrannopsis sulphurea (Spix, 1825)","Tyrannopsis sulphurea (Spix, 1825)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_152,"Tyrannus albogularis Burmeister, 1856","Tyrannus albogularis Burmeister, 1856",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_153,"Tyrannus melancholicus Vieillot, 1819","Tyrannus melancholicus Vieillot, 1819",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_154,"Tyto furcata (Temminck, 1827)","Tyto furcata (Temminck, 1827)",Tytonidae,Strigiformes,Aves,Nativa,LC
+ESP_155,"Vanellus chilensis (Molina, 1782)","Vanellus chilensis (Molina, 1782)",Charadriidae,Charadriiformes,Aves,Nativa,LC
+ESP_156,"Vireo olivaceus chivi (Vieillot, 1817)","Vireo olivaceus chivi (Vieillot, 1817)",Vireonidae,Passeriformes,Aves,Nativa,LC
+ESP_157,"Volatinia jacarina (Linnaeus, 1766)","Volatinia jacarina (Linnaeus, 1766)",Thraupidae,Passeriformes,Aves,Nativa,LC
+ESP_158,"Xolmis cinereus (Vieillot, 1816)","Xolmis cinereus (Vieillot, 1816)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_159,"Xolmis velatus (Lichtenstein, 1823)","Xolmis velatus (Lichtenstein, 1823)",Tyrannidae,Passeriformes,Aves,Nativa,LC
+ESP_160,"Zenaida auriculata (Des Murs, 1847)","Zenaida auriculata (Des Murs, 1847)",Columbidae,Columbiformes,Aves,Nativa,LC
+ESP_161,Acacia mangium Willd.,Acacia mangium Willd.,Fabaceae,Fabales,Flora,introduced,LC
+ESP_162,Acalypha L.,Acalypha L.,Euphorbiaceae,Malpighiales,Flora,Nativa,LC
+ESP_163,Acalypha communis Müll.Arg.,Acalypha communis Müll.Arg.,Euphorbiaceae,Malpighiales,Flora,native,LC
+ESP_164,Acanthaceae,Acanthaceae,Acanthaceae,Lamiales,Flora,Nativa,LC
+ESP_165,Acisanthera alsinaefolia (Mart. & Schrank ex DC.) Triana,Acisanthera alsinaefolia (Mart. & Schrank ex DC.) Triana,Melastomataceae,Myrtales,Flora,Nativa,LC
+ESP_166,Adiantopsis chlorophylla (Sw.) Fée,Adiantopsis chlorophylla (Sw.) Fée,Pteridaceae,Polypodiales,Flora,Nativa,LC
+ESP_167,Adiantopsis radiata (L.) Fée,Adiantopsis radiata (L.) Fée,Pteridaceae,Polypodiales,Flora,native,LC
+ESP_168,Adiantum L.,Adiantum L.,Pteridaceae,Polypodiales,Flora,Nativa,LC
+ESP_169,Adiantum pulverulentum L.,Adiantum pulverulentum L.,Pteridaceae,Polypodiales,Flora,native,LC
+ESP_170,Aegiphila verticillata Vell.,Aegiphila verticillata Vell.,Lamiaceae,Lamiales,Flora,native,LC
+ESP_171,Agonandra brasiliensis Benth. & Hook.f.,Agonandra brasiliensis Benth. & Hook.f.,Opiliaceae,Santalales,Flora,native,LC
+ESP_172,Aiouea piauhyensis Mez,Aiouea piauhyensis Mez,Lauraceae,Laurales,Flora,native,LC
+ESP_173,Aiouea trinervis Meisn.,Aiouea trinervis Meisn.,Lauraceae,Laurales,Flora,native,LC
+ESP_174,Albizia lebbeck (L.) Benth.,Albizia lebbeck (L.) Benth.,Fabaceae,Fabales,Flora,introduced,LC
+ESP_175,Alchornea triplinervia (Spreng.) Müll.Arg.,Alchornea triplinervia (Spreng.) Müll.Arg.,Euphorbiaceae,Malpighiales,Flora,native,LC
+ESP_176,Alibertia edulis (Rich.) A.Rich. ex DC.,Alibertia edulis (Rich.) A.Rich. ex DC.,Rubiaceae,Gentianales,Flora,Nativa,LC
+ESP_177,"Allophylus edulis (A.St.-Hil., Cambess. & A.Juss.) Radlk. ex Warm.","Allophylus edulis (A.St.-Hil., Cambess. & A.Juss.) Radlk. ex Warm.",Sapindaceae,Sapindales,Flora,native,LC
+ESP_178,Aloysia virgata (Ruiz & Pav.) Juss.,Aloysia virgata (Ruiz & Pav.) Juss.,Verbenaceae,Lamiales,Flora,native,LC
+ESP_179,Alternanthera brasiliana (L.) Kuntze,Alternanthera brasiliana (L.) Kuntze,Amaranthaceae,Caryophyllales,Flora,Nativa,LC
+ESP_180,"Altoparadisium Filg., Davidse, Zuloaga & Morrone","Altoparadisium Filg., Davidse, Zuloaga & Morrone",Poaceae,Poales,Flora,Nativa,LC
+ESP_181,Amaranthaceae,Amaranthaceae,Amaranthaceae,Caryophyllales,Flora,Nativa,LC
+ESP_182,Amauropelta Kunze,Amauropelta Kunze,Thelypteridaceae,Polypodiales,Flora,Nativa,LC
+ESP_183,Amauropelta opposita (M.Vahl) Pic.Serm.,Amauropelta opposita (M.Vahl) Pic.Serm.,Thelypteridaceae,Polypodiales,Flora,Nativa,LC
+ESP_184,Amphilophium elongatum (Vahl) L.G.Lohmann,Amphilophium elongatum (Vahl) L.G.Lohmann,Bignoniaceae,Lamiales,Flora,native,LC
+ESP_185,Anacardium humile A.St.-Hil.,Anacardium humile A.St.-Hil.,Anacardiaceae,Sapindales,Flora,native,LC
+ESP_186,Anacardium occidentale L.,Anacardium occidentale L.,Anacardiaceae,Sapindales,Flora,native,LC
+ESP_187,Anadenanthera colubrina (Vell.) Brenan,Anadenanthera colubrina (Vell.) Brenan,Fabaceae,Fabales,Flora,native,LC
+ESP_188,Anadenanthera peregrina (L.) Speg.,Anadenanthera peregrina (L.) Speg.,Fabaceae,Fabales,Flora,native,LC
+ESP_189,Ananthacorus angustifolius (Sw.) Underw. & Maxon,Ananthacorus angustifolius (Sw.) Underw. & Maxon,Pteridaceae,Polypodiales,Flora,native,LC
+ESP_190,Ancistrotropis firmula (Mart. ex Benth.) A.Delgado,Ancistrotropis firmula (Mart. ex Benth.) A.Delgado,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_191,Andira Lam.,Andira Lam.,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_192,Anemia Sw.,Anemia Sw.,Anemiaceae,Schizaeales,Flora,Nativa,LC
+ESP_193,Anemia phyllitidis (L.) Sw.,Anemia phyllitidis (L.) Sw.,Anemiaceae,Schizaeales,Flora,native,LC
+ESP_194,Anemopaegma acutifolium DC.,Anemopaegma acutifolium DC.,Bignoniaceae,Lamiales,Flora,Nativa,LC
+ESP_195,Anemopaegma arvense (Vell.) Stellfeld ex De Souza,Anemopaegma arvense (Vell.) Stellfeld ex De Souza,Bignoniaceae,Lamiales,Flora,native,LC
+ESP_196,Anemopaegma glaucum Mart. ex DC.,Anemopaegma glaucum Mart. ex DC.,Bignoniaceae,Lamiales,Flora,Nativa,LC
+ESP_197,Annona L.,Annona L.,Annonaceae,Magnoliales,Flora,Nativa,LC
+ESP_198,Annona glabra L.,Annona glabra L.,Annonaceae,Magnoliales,Flora,native,LC
+ESP_199,Annona muricata L.,Annona muricata L.,Annonaceae,Magnoliales,Flora,Nativa,LC
+ESP_200,Antonia ovata Pohl,Antonia ovata Pohl,Loganiaceae,Gentianales,Flora,native,LC
+ESP_201,Aphelandra longiflora (Lindl.) Profice,Aphelandra longiflora (Lindl.) Profice,Acanthaceae,Lamiales,Flora,native,LC
+ESP_202,Apocynaceae,Apocynaceae,Apocynaceae,Gentianales,Flora,Nativa,LC
+ESP_203,Apuleia leiocarpa (Vogel) J.F.Macbr.,Apuleia leiocarpa (Vogel) J.F.Macbr.,Fabaceae,Fabales,Flora,native,LC
+ESP_204,Aquarius floribundus (Seub.) Christenh. & Byng,Aquarius floribundus (Seub.) Christenh. & Byng,Alismataceae,Alismatales,Flora,native,LC
+ESP_205,Aquarius macrophyllus (Kunth) Christenh. & Byng,Aquarius macrophyllus (Kunth) Christenh. & Byng,Alismataceae,Alismatales,Flora,Nativa,LC
+ESP_206,Arachis glabrata Benth.,Arachis glabrata Benth.,Fabaceae,Fabales,Flora,native,LC
+ESP_207,Arecaceae,Arecaceae,Arecaceae,Arecales,Flora,Nativa,LC
+ESP_208,Aristolochia esperanzae Kuntze,Aristolochia esperanzae Kuntze,Aristolochiaceae,Piperales,Flora,native,LC
+ESP_209,Arundina graminifolia (D.Don) Hochr.,Arundina graminifolia (D.Don) Hochr.,Orchidaceae,Asparagales,Flora,Nativa,LC
+ESP_210,Asclepias mellodora A.St.-Hil.,Asclepias mellodora A.St.-Hil.,Apocynaceae,Gentianales,Flora,native,LC
+ESP_211,Aspidosperma subincanum Mart.,Aspidosperma subincanum Mart.,Apocynaceae,Gentianales,Flora,native,LC
+ESP_212,Asplenium L.,Asplenium L.,Aspleniaceae,Polypodiales,Flora,Nativa,LC
+ESP_213,Asplenium auritum Sw.,Asplenium auritum Sw.,Aspleniaceae,Polypodiales,Flora,native,LC
+ESP_214,Asplenium formosum Willd.,Asplenium formosum Willd.,Aspleniaceae,Polypodiales,Flora,native,LC
+ESP_215,Asplenium serratum L.,Asplenium serratum L.,Aspleniaceae,Polypodiales,Flora,native,LC
+ESP_216,Asteraceae,Asteraceae,Asteraceae,Asterales,Flora,Nativa,LC
+ESP_217,Astronium fraxinifolium Schott,Astronium fraxinifolium Schott,Anacardiaceae,Sapindales,Flora,native,LC
+ESP_218,Astronium nelson-rosae Santin,Astronium nelson-rosae Santin,Anacardiaceae,Sapindales,Flora,native,LC
+ESP_219,Baccharis dracunculifolia DC.,Baccharis dracunculifolia DC.,Asteraceae,Asterales,Flora,native,LC
+ESP_220,Banisteriopsis C.B.Rob.,Banisteriopsis C.B.Rob.,Malpighiaceae,Malpighiales,Flora,Nativa,LC
+ESP_221,Banisteriopsis acerosa (Nied.) B.Gates,Banisteriopsis acerosa (Nied.) B.Gates,Malpighiaceae,Malpighiales,Flora,native,LC
+ESP_222,Banisteriopsis campestris (A.Juss.) Little,Banisteriopsis campestris (A.Juss.) Little,Malpighiaceae,Malpighiales,Flora,native,LC
+ESP_223,Banisteriopsis megaphylla (A.Juss.) B.Gates,Banisteriopsis megaphylla (A.Juss.) B.Gates,Malpighiaceae,Malpighiales,Flora,native,LC
+ESP_224,Banisteriopsis muricata (Cav.) Cuatrec.,Banisteriopsis muricata (Cav.) Cuatrec.,Malpighiaceae,Malpighiales,Flora,native,LC
+ESP_225,Banisteriopsis stellaris (Griseb.) B.Gates,Banisteriopsis stellaris (Griseb.) B.Gates,Malpighiaceae,Malpighiales,Flora,native,LC
+ESP_226,Banisteriopsis variabilis B.Gates,Banisteriopsis variabilis B.Gates,Malpighiaceae,Malpighiales,Flora,native,LC
+ESP_227,Barbieria pinnata (Pers.) Baill.,Barbieria pinnata (Pers.) Baill.,Fabaceae,Fabales,Flora,native,LC
+ESP_228,Bauhinia Plum. ex L.,Bauhinia Plum. ex L.,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_229,Bauhinia holophylla (Bong.) Steud.,Bauhinia holophylla (Bong.) Steud.,Fabaceae,Fabales,Flora,native,LC
+ESP_230,Bauhinia membranacea Benth.,Bauhinia membranacea Benth.,Fabaceae,Fabales,Flora,native,LC
+ESP_231,Bauhinia ungulata L.,Bauhinia ungulata L.,Fabaceae,Fabales,Flora,native,LC
+ESP_232,Bidens gardneri Baker,Bidens gardneri Baker,Asteraceae,Asterales,Flora,native,LC
+ESP_233,Blechnum asplenioides Sw.,Blechnum asplenioides Sw.,Blechnaceae,Polypodiales,Flora,Nativa,LC
+ESP_234,Blechnum occidentale L.,Blechnum occidentale L.,Blechnaceae,Polypodiales,Flora,native,DD
+ESP_235,Bocageopsis mattogrossensis (R.E.Fr.) R.E.Fr.,Bocageopsis mattogrossensis (R.E.Fr.) R.E.Fr.,Annonaceae,Magnoliales,Flora,native,LC
+ESP_236,Bowdichia virgilioides Kunth,Bowdichia virgilioides Kunth,Fabaceae,Fabales,Flora,native,LC
+ESP_237,Brosimum gaudichaudii Trécul,Brosimum gaudichaudii Trécul,Moraceae,Rosales,Flora,native,LC
+ESP_238,Buchnera lavandulacea Cham. & Schltdl.,Buchnera lavandulacea Cham. & Schltdl.,Orobanchaceae,Lamiales,Flora,Nativa,LC
+ESP_239,Butia capitata (Mart.) Becc.,Butia capitata (Mart.) Becc.,Arecaceae,Arecales,Flora,Nativa,LC
+ESP_240,Butia purpurascens Glassman,Butia purpurascens Glassman,Arecaceae,Arecales,Flora,Nativa,VU
+ESP_241,Byrsonima Rich. ex Kunth,Byrsonima Rich. ex Kunth,Malpighiaceae,Malpighiales,Flora,Nativa,LC
+ESP_242,Byrsonima affinis W.R.Anderson,Byrsonima affinis W.R.Anderson,Malpighiaceae,Malpighiales,Flora,native,LC
+ESP_243,Byrsonima dealbata Griseb.,Byrsonima dealbata Griseb.,Malpighiaceae,Malpighiales,Flora,native,LC
+ESP_244,Byrsonima sericea DC.,Byrsonima sericea DC.,Malpighiaceae,Malpighiales,Flora,native,LC
+ESP_245,Byrsonima spicata (Cav.) DC.,Byrsonima spicata (Cav.) DC.,Malpighiaceae,Malpighiales,Flora,native,LC
+ESP_246,Byttneria catalpifolia Jacq.,Byttneria catalpifolia Jacq.,Malvaceae,Malvales,Flora,native,LC
+ESP_247,Byttneria ramosissima Pohl,Byttneria ramosissima Pohl,Malvaceae,Malvales,Flora,Nativa,LC
+ESP_248,Calea lutea Pruski & Urbatsch,Calea lutea Pruski & Urbatsch,Asteraceae,Asterales,Flora,Nativa,LC
+ESP_249,Calliandra Benth.,Calliandra Benth.,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_250,Calliandra dysantha Benth.,Calliandra dysantha Benth.,Fabaceae,Fabales,Flora,native,LC
+ESP_251,Calliandra dysantha var. turbinata (Benth.) Barneby,Calliandra dysantha var. turbinata (Benth.) Barneby,Fabaceae,Fabales,Flora,native,LC
+ESP_252,Callistemon salignus (Sm.) Colvill ex Sweet,Callistemon salignus (Sm.) Colvill ex Sweet,Myrtaceae,Myrtales,Flora,Nativa,LC
+ESP_253,Calolisianthus speciosus (Cham. & Schltdl.) Gilg,Calolisianthus speciosus (Cham. & Schltdl.) Gilg,Gentianaceae,Gentianales,Flora,native,LC
+ESP_254,Calophyllum brasiliense Cambess.,Calophyllum brasiliense Cambess.,Calophyllaceae,Malpighiales,Flora,native,LC
+ESP_255,Calopogonium mucunoides Desv.,Calopogonium mucunoides Desv.,Fabaceae,Fabales,Flora,native,LC
+ESP_256,Cambessedesia membranacea Gardner,Cambessedesia membranacea Gardner,Melastomataceae,Myrtales,Flora,native,LC
+ESP_257,Campomanesia Ruiz & Pav.,Campomanesia Ruiz & Pav.,Myrtaceae,Myrtales,Flora,Nativa,LC
+ESP_258,Campomanesia adamantium (Cambess.) O.Berg,Campomanesia adamantium (Cambess.) O.Berg,Myrtaceae,Myrtales,Flora,native,LC
+ESP_259,Campomanesia pubescens (DC.) O.Berg,Campomanesia pubescens (DC.) O.Berg,Myrtaceae,Myrtales,Flora,native,LC
+ESP_260,Campyloneurum C.Presl,Campyloneurum C.Presl,Polypodiaceae,Polypodiales,Flora,Nativa,LC
+ESP_261,Campyloneurum abruptum (Lindm.) B.León,Campyloneurum abruptum (Lindm.) B.León,Polypodiaceae,Polypodiales,Flora,native,LC
+ESP_262,Campyloneurum centrobrasilianum Lellinger,Campyloneurum centrobrasilianum Lellinger,Polypodiaceae,Polypodiales,Flora,native,LC
+ESP_263,Canavalia DC.,Canavalia DC.,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_264,Cantinoa carpinifolia (Benth.) Harley & J.F.B.Pastore,Cantinoa carpinifolia (Benth.) Harley & J.F.B.Pastore,Lamiaceae,Lamiales,Flora,native,LC
+ESP_265,Cantinoa subrotunda (Pohl ex Benth.) Harley & J.F.B.Pastore,Cantinoa subrotunda (Pohl ex Benth.) Harley & J.F.B.Pastore,Lamiaceae,Lamiales,Flora,Nativa,LC
+ESP_266,Casearia sylvestris Sw.,Casearia sylvestris Sw.,Salicaceae,Malpighiales,Flora,native,LC
+ESP_267,Casuarina equisetifolia L.,Casuarina equisetifolia L.,Casuarinaceae,Fagales,Flora,Nativa,LC
+ESP_268,Cayaponia tayuya (Vell.) Cogn.,Cayaponia tayuya (Vell.) Cogn.,Cucurbitaceae,Cucurbitales,Flora,native,LC
+ESP_269,Celosia argentea L.,Celosia argentea L.,Amaranthaceae,Caryophyllales,Flora,introduced,LC
+ESP_270,Cenchrus echinatus L.,Cenchrus echinatus L.,Poaceae,Poales,Flora,native,LC
+ESP_271,Centropogon cornutus (L.) Druce,Centropogon cornutus (L.) Druce,Campanulaceae,Asterales,Flora,native,LC
+ESP_272,Centrosema fasciculatum Benth.,Centrosema fasciculatum Benth.,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_273,Centrosema sagittatum (Humb. & Bonpl. ex Willd.) Brandegee,Centrosema sagittatum (Humb. & Bonpl. ex Willd.) Brandegee,Fabaceae,Fabales,Flora,native,LC
+ESP_274,Cerradicola elliptica (Desv.) L.P.Queiroz,Cerradicola elliptica (Desv.) L.P.Queiroz,Fabaceae,Fabales,Flora,native,LC
+ESP_275,Cestrum L.,Cestrum L.,Solanaceae,Solanales,Flora,Nativa,LC
+ESP_276,Chaetocarpus echinocarpus (Baill.) Ducke,Chaetocarpus echinocarpus (Baill.) Ducke,Peraceae,Malpighiales,Flora,native,LC
+ESP_277,Chamaecrista Moench,Chamaecrista Moench,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_278,Chamaecrista basifolia (Vogel) H.S.Irwin & Barneby,Chamaecrista basifolia (Vogel) H.S.Irwin & Barneby,Fabaceae,Fabales,Flora,native,LC
+ESP_279,Chamaecrista desvauxii var. brevipes (Benth.) H.S.Irwin & Barneby,Chamaecrista desvauxii var. brevipes (Benth.) H.S.Irwin & Barneby,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_280,Chamaecrista flexuosa var. flexuosa,Chamaecrista flexuosa var. flexuosa,Fabaceae,Fabales,Flora,native,LC
+ESP_281,Chamaecrista polita H.S.Irwin & Barneby,Chamaecrista polita H.S.Irwin & Barneby,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_282,Cheiloclinium cognatum (Miers) A.C.Sm.,Cheiloclinium cognatum (Miers) A.C.Sm.,Celastraceae,Celastrales,Flora,Nativa,LC
+ESP_283,Chelonanthus viridiflorus (Mart.) Gilg,Chelonanthus viridiflorus (Mart.) Gilg,Gentianaceae,Gentianales,Flora,native,LC
+ESP_284,Chresta Vell. ex DC.,Chresta Vell. ex DC.,Asteraceae,Asterales,Flora,Nativa,LC
+ESP_285,Chresta sphaerocephala DC.,Chresta sphaerocephala DC.,Asteraceae,Asterales,Flora,native,LC
+ESP_286,Christella H.Lév.,Christella H.Lév.,Thelypteridaceae,Polypodiales,Flora,Nativa,LC
+ESP_287,Chromolaena DC.,Chromolaena DC.,Asteraceae,Asterales,Flora,Nativa,LC
+ESP_288,Chromolaena laevigata (Lam.) R.M.King & H.Rob.,Chromolaena laevigata (Lam.) R.M.King & H.Rob.,Asteraceae,Asterales,Flora,native,LC
+ESP_289,Chromolaena mattogrossensis (Hieron.) R.M.King & H.Rob.,Chromolaena mattogrossensis (Hieron.) R.M.King & H.Rob.,Asteraceae,Asterales,Flora,native,LC
+ESP_290,Chromolaena odorata (L.) R.M.King & H.Rob.,Chromolaena odorata (L.) R.M.King & H.Rob.,Asteraceae,Asterales,Flora,native,LC
+ESP_291,Chrysolaena H.Rob.,Chrysolaena H.Rob.,Asteraceae,Asterales,Flora,Nativa,LC
+ESP_292,Cinnamomum verum J.Presl,Cinnamomum verum J.Presl,Lauraceae,Laurales,Flora,Nativa,VU
+ESP_293,Cissus erosa (L.) Rich.,Cissus erosa (L.) Rich.,Vitaceae,Vitales,Flora,native,LC
+ESP_294,Coccocypselum P.Browne,Coccocypselum P.Browne,Rubiaceae,Gentianales,Flora,Nativa,LC
+ESP_295,Coccocypselum hirsutum Bartl. ex DC.,Coccocypselum hirsutum Bartl. ex DC.,Rubiaceae,Gentianales,Flora,native,LC
+ESP_296,Coccoloba mollis Casar.,Coccoloba mollis Casar.,Polygonaceae,Caryophyllales,Flora,native,LC
+ESP_297,Comanthera L.B.Sm.,Comanthera L.B.Sm.,Eriocaulaceae,Poales,Flora,Nativa,LC
+ESP_298,Combretum hilarianum D.Dietr.,Combretum hilarianum D.Dietr.,Combretaceae,Myrtales,Flora,native,LC
+ESP_299,Commelina erecta L.,Commelina erecta L.,Commelinaceae,Commelinales,Flora,Nativa,LC
+ESP_300,Connarus suberosus Planch.,Connarus suberosus Planch.,Connaraceae,Oxalidales,Flora,native,LC
+ESP_301,Convolvulaceae,Convolvulaceae,Convolvulaceae,Solanales,Flora,Nativa,LC
+ESP_302,Copaifera langsdorffii Desf.,Copaifera langsdorffii Desf.,Fabaceae,Fabales,Flora,native,LC
+ESP_303,Cordia sellowiana Cham.,Cordia sellowiana Cham.,Cordiaceae,Boraginales,Flora,native,LC
+ESP_304,Cordia trichotoma (Vell.) Arráb. ex Steud.,Cordia trichotoma (Vell.) Arráb. ex Steud.,Cordiaceae,Boraginales,Flora,native,LC
+ESP_305,Costus L.,Costus L.,Costaceae,Zingiberales,Flora,Nativa,LC
+ESP_306,Costus spiralis (Jacq.) Roscoe,Costus spiralis (Jacq.) Roscoe,Costaceae,Zingiberales,Flora,native,LC
+ESP_307,Coussarea hydrangeifolia (Benth.) Benth. & Hook.f. ex Müll.Arg.,Coussarea hydrangeifolia (Benth.) Benth. & Hook.f. ex Müll.Arg.,Rubiaceae,Gentianales,Flora,native,LC
+ESP_308,Cratylia Mart. ex Benth.,Cratylia Mart. ex Benth.,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_309,Crocosmia × crocosmiiflora (Lemoine) N.E.Br.,Crocosmia × crocosmiiflora (Lemoine) N.E.Br.,Iridaceae,Asparagales,Flora,Nativa,LC
+ESP_310,Crotalaria lanceolata E.Mey.,Crotalaria lanceolata E.Mey.,Fabaceae,Fabales,Flora,introduced,LC
+ESP_311,Croton junceus Baill.,Croton junceus Baill.,Euphorbiaceae,Malpighiales,Flora,native,LC
+ESP_312,Croton urucurana Baill.,Croton urucurana Baill.,Euphorbiaceae,Malpighiales,Flora,native,LC
+ESP_313,Ctenitis submarginalis (Langsd. & Fisch.) Ching,Ctenitis submarginalis (Langsd. & Fisch.) Ching,Dryopteridaceae,Polypodiales,Flora,native,LC
+ESP_314,"Ctenodon oroboides (Benth.) D.B.O.S.Cardoso, P.L.R.Moraes & H.C.Lima","Ctenodon oroboides (Benth.) D.B.O.S.Cardoso, P.L.R.Moraes & H.C.Lima",Fabaceae,Fabales,Flora,native,LC
+ESP_315,Cupania vernalis Cambess.,Cupania vernalis Cambess.,Sapindaceae,Sapindales,Flora,native,LC
+ESP_316,Cuphea P.Browne,Cuphea P.Browne,Lythraceae,Myrtales,Flora,Nativa,LC
+ESP_317,Cupressus lusitanica Mill.,Cupressus lusitanica Mill.,Cupressaceae,Pinales,Flora,Nativa,LC
+ESP_318,Cupressus macrocarpa Hartw. ex Gordon,Cupressus macrocarpa Hartw. ex Gordon,Cupressaceae,Pinales,Flora,Nativa,LC
+ESP_319,Cuspidaria pulchra (Cham.) L.G.Lohmann,Cuspidaria pulchra (Cham.) L.G.Lohmann,Bignoniaceae,Lamiales,Flora,native,LC
+ESP_320,Cuspidaria sceptrum (Cham.) L.G.Lohmann,Cuspidaria sceptrum (Cham.) L.G.Lohmann,Bignoniaceae,Lamiales,Flora,native,LC
+ESP_321,Cyathea J.E.Sm.,Cyathea J.E.Sm.,Cyatheaceae,Cyatheales,Flora,Nativa,LC
+ESP_322,Cyathea delgadii Pohl ex Sternb.,Cyathea delgadii Pohl ex Sternb.,Cyatheaceae,Cyatheales,Flora,native,LC
+ESP_323,Cyathea phalerata Mart.,Cyathea phalerata Mart.,Cyatheaceae,Cyatheales,Flora,native,LC
+ESP_324,Cybistax antisyphilitica (Mart.) Mart.,Cybistax antisyphilitica (Mart.) Mart.,Bignoniaceae,Lamiales,Flora,native,LC
+ESP_325,Cycas thouarsii R.Br. ex Gaudich.,Cycas thouarsii R.Br. ex Gaudich.,Cycadaceae,Cycadales,Flora,Nativa,LC
+ESP_326,Cyclodium C.Presl,Cyclodium C.Presl,Dryopteridaceae,Polypodiales,Flora,Nativa,LC
+ESP_327,Cyclodium meniscioides (Willd.) C.Presl,Cyclodium meniscioides (Willd.) C.Presl,Dryopteridaceae,Polypodiales,Flora,native,LC
+ESP_328,Cyrtopodium R.Br.,Cyrtopodium R.Br.,Orchidaceae,Asparagales,Flora,Nativa,LC
+ESP_329,Dalechampia adscendens (Müll.Arg.) Müll.Arg.,Dalechampia adscendens (Müll.Arg.) Müll.Arg.,Euphorbiaceae,Malpighiales,Flora,Nativa,LC
+ESP_330,Dalechampia brevipes Müll.Arg.,Dalechampia brevipes Müll.Arg.,Euphorbiaceae,Malpighiales,Flora,native,LC
+ESP_331,Dalechampia occidentalis Müll.Arg.,Dalechampia occidentalis Müll.Arg.,Euphorbiaceae,Malpighiales,Flora,native,LC
+ESP_332,Davilla elliptica A.St.-Hil.,Davilla elliptica A.St.-Hil.,Dilleniaceae,Dilleniales,Flora,native,LC
+ESP_333,Declieuxia fruticosa (Willd.) Kuntze,Declieuxia fruticosa (Willd.) Kuntze,Rubiaceae,Gentianales,Flora,native,LC
+ESP_334,Deianira nervosa Cham. & Schltdl.,Deianira nervosa Cham. & Schltdl.,Gentianaceae,Gentianales,Flora,native,LC
+ESP_335,Dendropanax cuneatus (DC.) Decne. & Planch.,Dendropanax cuneatus (DC.) Decne. & Planch.,Araliaceae,Apiales,Flora,native,LC
+ESP_336,Dennstaedtia T.Moore,Dennstaedtia T.Moore,Dennstaedtiaceae,Polypodiales,Flora,Nativa,LC
+ESP_337,Desmoncus polyacanthos Mart.,Desmoncus polyacanthos Mart.,Arecaceae,Arecales,Flora,native,LC
+ESP_338,Desmoscelis villosa (Aubl.) Naudin,Desmoscelis villosa (Aubl.) Naudin,Melastomataceae,Myrtales,Flora,Nativa,LC
+ESP_339,Dicranopteris Bernh.,Dicranopteris Bernh.,Gleicheniaceae,Gleicheniales,Flora,Nativa,LC
+ESP_340,Dicranopteris flexuosa (Schrad.) Underw.,Dicranopteris flexuosa (Schrad.) Underw.,Gleicheniaceae,Gleicheniales,Flora,native,LC
+ESP_341,Dimorphandra mollis Benth.,Dimorphandra mollis Benth.,Fabaceae,Fabales,Flora,native,LC
+ESP_342,Dioclea Kunth,Dioclea Kunth,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_343,Diospyros lasiocalyx (Mart.) B.Walln.,Diospyros lasiocalyx (Mart.) B.Walln.,Ebenaceae,Ericales,Flora,native,LC
+ESP_344,Diplusodon Pohl,Diplusodon Pohl,Lythraceae,Myrtales,Flora,Nativa,LC
+ESP_345,Dipteryx alata Vogel,Dipteryx alata Vogel,Fabaceae,Fabales,Flora,native,VU
+ESP_346,Diptychandra aurantiaca (Mart.) Tul.,Diptychandra aurantiaca (Mart.) Tul.,Fabaceae,Fabales,Flora,native,LC
+ESP_347,Distimake Raf.,Distimake Raf.,Convolvulaceae,Solanales,Flora,Nativa,LC
+ESP_348,Distimake digitatus (Spreng.) A.R.Simões & Staples,Distimake digitatus (Spreng.) A.R.Simões & Staples,Convolvulaceae,Solanales,Flora,native,LC
+ESP_349,Distimake maragniensis (Choisy) Petrongari & Sim.-Bianch.,Distimake maragniensis (Choisy) Petrongari & Sim.-Bianch.,Convolvulaceae,Solanales,Flora,Nativa,LC
+ESP_350,Duguetia furfuracea (A.St.-Hil.) Saff.,Duguetia furfuracea (A.St.-Hil.) Saff.,Annonaceae,Magnoliales,Flora,native,LC
+ESP_351,Dyckia richardii P.J.Braun & Esteves,Dyckia richardii P.J.Braun & Esteves,Bromeliaceae,Poales,Flora,native,LC
+ESP_352,Echinolaena inflexa (Poir.) Chase,Echinolaena inflexa (Poir.) Chase,Poaceae,Poales,Flora,native,LC
+ESP_353,Elaphoglossum perelegans (Fée) T.Moore,Elaphoglossum perelegans (Fée) T.Moore,Dryopteridaceae,Polypodiales,Flora,native,LC
+ESP_354,Elephantopus palustris Gardner,Elephantopus palustris Gardner,Asteraceae,Asterales,Flora,native,LC
+ESP_355,Emmotum nitens (Benth.) Miers,Emmotum nitens (Benth.) Miers,Metteniusaceae,Metteniusales,Flora,native,LC
+ESP_356,Epistephium williamsii Hook.f.,Epistephium williamsii Hook.f.,Orchidaceae,Asparagales,Flora,Nativa,LC
+ESP_357,Eremanthus cinctus Baker,Eremanthus cinctus Baker,Asteraceae,Asterales,Flora,native,LC
+ESP_358,Eremanthus mattogrossensis Kuntze,Eremanthus mattogrossensis Kuntze,Asteraceae,Asterales,Flora,native,LC
+ESP_359,Ericaceae,Ericaceae,Ericaceae,Ericales,Flora,Nativa,LC
+ESP_360,Eriocaulaceae,Eriocaulaceae,Eriocaulaceae,Poales,Flora,native,LC
+ESP_361,Eriotheca Schott & Endl.,Eriotheca Schott & Endl.,Malvaceae,Malvales,Flora,Nativa,LC
+ESP_362,Eriotheca crenulata (K.Schum.) V.N.Yoshik. & M.C.Duarte,Eriotheca crenulata (K.Schum.) V.N.Yoshik. & M.C.Duarte,Malvaceae,Malvales,Flora,native,LC
+ESP_363,Eriotheca gracilipes (K.Schum.) A.Robyns,Eriotheca gracilipes (K.Schum.) A.Robyns,Malvaceae,Malvales,Flora,native,LC
+ESP_364,Eriotheca pubescens (Mart. & Zucc.) Schott & Endl.,Eriotheca pubescens (Mart. & Zucc.) Schott & Endl.,Malvaceae,Malvales,Flora,native,LC
+ESP_365,Eryngium juncifolium (Urb.) Mathias & Constance,Eryngium juncifolium (Urb.) Mathias & Constance,Apiaceae,Apiales,Flora,native,LC
+ESP_366,Erythroxylum Browne,Erythroxylum Browne,Erythroxylaceae,Malpighiales,Flora,Nativa,LC
+ESP_367,Erythroxylum daphnites Mart.,Erythroxylum daphnites Mart.,Erythroxylaceae,Malpighiales,Flora,native,LC
+ESP_368,Eschweilera nana (O.Berg) Miers,Eschweilera nana (O.Berg) Miers,Lecythidaceae,Ericales,Flora,native,LC
+ESP_369,Esterhazya splendida J.C.Mikan,Esterhazya splendida J.C.Mikan,Orobanchaceae,Lamiales,Flora,native,LC
+ESP_370,Eugenia L.,Eugenia L.,Myrtaceae,Myrtales,Flora,Nativa,LC
+ESP_371,Eugenia aurata O.Berg,Eugenia aurata O.Berg,Myrtaceae,Myrtales,Flora,native,LC
+ESP_372,Eugenia bimarginata DC.,Eugenia bimarginata DC.,Myrtaceae,Myrtales,Flora,Nativa,LC
+ESP_373,Eugenia complicata O.Berg,Eugenia complicata O.Berg,Myrtaceae,Myrtales,Flora,Nativa,LC
+ESP_374,Eugenia mattogrossensis Sobral,Eugenia mattogrossensis Sobral,Myrtaceae,Myrtales,Flora,native,LC
+ESP_375,Eugenia punicifolia (Kunth) DC.,Eugenia punicifolia (Kunth) DC.,Myrtaceae,Myrtales,Flora,Nativa,LC
+ESP_376,Euphorbia viscoides Boiss.,Euphorbia viscoides Boiss.,Euphorbiaceae,Malpighiales,Flora,native,LC
+ESP_377,Euphorbiaceae,Euphorbiaceae,Euphorbiaceae,Malpighiales,Flora,Nativa,LC
+ESP_378,Evolvulus alsinoides (L.) L.,Evolvulus alsinoides (L.) L.,Convolvulaceae,Solanales,Flora,native,LC
+ESP_379,Fabaceae,Fabaceae,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_380,Ferdinandusa speciosa (Pohl) Pohl,Ferdinandusa speciosa (Pohl) Pohl,Rubiaceae,Gentianales,Flora,native,LC
+ESP_381,Filgueirasia arenicola (McClure) Guala,Filgueirasia arenicola (McClure) Guala,Poaceae,Poales,Flora,native,LC
+ESP_382,Floscopa glabrata (Kunth) Hassk.,Floscopa glabrata (Kunth) Hassk.,Commelinaceae,Commelinales,Flora,native,LC
+ESP_383,Fritzschia lanceiflora (DC.) M.J.Rocha & P.J.F.Guim.,Fritzschia lanceiflora (DC.) M.J.Rocha & P.J.F.Guim.,Melastomataceae,Myrtales,Flora,native,LC
+ESP_384,Froelichia procera (Seub.) Pedersen,Froelichia procera (Seub.) Pedersen,Amaranthaceae,Caryophyllales,Flora,native,LC
+ESP_385,Galactia glaucescens Kunth,Galactia glaucescens Kunth,Fabaceae,Fabales,Flora,native,LC
+ESP_386,Galianthe grandifolia E.L.Cabral,Galianthe grandifolia E.L.Cabral,Rubiaceae,Gentianales,Flora,native,LC
+ESP_387,Gaylussacia brasiliensis (Spreng.) Meisn.,Gaylussacia brasiliensis (Spreng.) Meisn.,Ericaceae,Ericales,Flora,native,LC
+ESP_388,Geophila macropoda (Ruiz & Pav.) DC.,Geophila macropoda (Ruiz & Pav.) DC.,Rubiaceae,Gentianales,Flora,native,LC
+ESP_389,Geophila repens (L.) I.M.Johnst.,Geophila repens (L.) I.M.Johnst.,Rubiaceae,Gentianales,Flora,native,LC
+ESP_390,Goniopteris C.Presl,Goniopteris C.Presl,Thelypteridaceae,Polypodiales,Flora,Nativa,LC
+ESP_391,Graffenrieda weddellii Naudin,Graffenrieda weddellii Naudin,Melastomataceae,Myrtales,Flora,native,LC
+ESP_392,Guarea guidonia (L.) Sleumer,Guarea guidonia (L.) Sleumer,Meliaceae,Sapindales,Flora,native,LC
+ESP_393,Guarea kunthiana A.Juss.,Guarea kunthiana A.Juss.,Meliaceae,Sapindales,Flora,native,LC
+ESP_394,Guatteria Ruiz & Pav.,Guatteria Ruiz & Pav.,Annonaceae,Magnoliales,Flora,Nativa,LC
+ESP_395,Guatteria australis A.St.-Hil.,Guatteria australis A.St.-Hil.,Annonaceae,Magnoliales,Flora,native,LC
+ESP_396,Gymneia interrupta (Pohl ex Benth.) Harley & J.F.B.Pastore,Gymneia interrupta (Pohl ex Benth.) Harley & J.F.B.Pastore,Lamiaceae,Lamiales,Flora,native,LC
+ESP_397,Habenaria Willd.,Habenaria Willd.,Orchidaceae,Asparagales,Flora,Nativa,LC
+ESP_398,Handroanthus impetiginosum (Mart. ex DC.) Mattos,Handroanthus impetiginosum (Mart. ex DC.) Mattos,Bignoniaceae,Lamiales,Flora,native,NT
+ESP_399,Handroanthus ochraceus (Cham.) Mattos,Handroanthus ochraceus (Cham.) Mattos,Bignoniaceae,Lamiales,Flora,native,LC
+ESP_400,Handroanthus serratifolius (Vahl) S.O.Grose,Handroanthus serratifolius (Vahl) S.O.Grose,Bignoniaceae,Lamiales,Flora,native,EN
+ESP_401,Harpalyce brasiliana Benth.,Harpalyce brasiliana Benth.,Fabaceae,Fabales,Flora,native,LC
+ESP_402,Hedichium Ritgen,Hedichium Ritgen,Zingiberaceae,Zingiberales,Flora,Nativa,LC
+ESP_403,Heliconia hirsuta L.f.,Heliconia hirsuta L.f.,Heliconiaceae,Zingiberales,Flora,native,LC
+ESP_404,Hirtella gracilipes (Hook.fil.) Prance,Hirtella gracilipes (Hook.fil.) Prance,Chrysobalanaceae,Malpighiales,Flora,native,LC
+ESP_405,Homalolepis Turcz.,Homalolepis Turcz.,Simaroubaceae,Sapindales,Flora,Nativa,LC
+ESP_406,"Hortia oreadica Groppo, Kallunki & Pirani","Hortia oreadica Groppo, Kallunki & Pirani",Rutaceae,Sapindales,Flora,Nativa,LC
+ESP_407,Hymenaea courbaril L.,Hymenaea courbaril L.,Fabaceae,Fabales,Flora,native,LC
+ESP_408,Hymenophyllaceae,Hymenophyllaceae,Hymenophyllaceae,Hymenophyllales,Flora,Nativa,LC
+ESP_409,Hyptis Jacq.,Hyptis Jacq.,Lamiaceae,Lamiales,Flora,Nativa,LC
+ESP_410,Hyptis recurvata Poit.,Hyptis recurvata Poit.,Lamiaceae,Lamiales,Flora,native,LC
+ESP_411,Indigofera lespedezioides Kunth,Indigofera lespedezioides Kunth,Fabaceae,Fabales,Flora,native,LC
+ESP_412,Inga vera Willd.,Inga vera Willd.,Fabaceae,Fabales,Flora,native,LC
+ESP_413,Ipomoea L.,Ipomoea L.,Convolvulaceae,Solanales,Flora,Nativa,LC
+ESP_414,Iridaceae,Iridaceae,Iridaceae,Asparagales,Flora,Nativa,LC
+ESP_415,Jacaranda cuspidifolia Mart.,Jacaranda cuspidifolia Mart.,Bignoniaceae,Lamiales,Flora,native,LC
+ESP_416,Jacaranda mutabilis Hassl.,Jacaranda mutabilis Hassl.,Bignoniaceae,Lamiales,Flora,native,LC
+ESP_417,Jacaranda rufa Silva Manso,Jacaranda rufa Silva Manso,Bignoniaceae,Lamiales,Flora,native,LC
+ESP_418,Jatropha L.,Jatropha L.,Euphorbiaceae,Malpighiales,Flora,Nativa,LC
+ESP_419,Justicia tocantina (Nees) V.A.W.Graham,Justicia tocantina (Nees) V.A.W.Graham,Acanthaceae,Lamiales,Flora,native,LC
+ESP_420,Kielmeyera coriacea Mart.,Kielmeyera coriacea Mart.,Calophyllaceae,Malpighiales,Flora,native,LC
+ESP_421,Kielmeyera rubriflora Cambess.,Kielmeyera rubriflora Cambess.,Calophyllaceae,Malpighiales,Flora,native,LC
+ESP_422,Koanophyllon myrtilloides (DC.) R.M.King & H.Rob.,Koanophyllon myrtilloides (DC.) R.M.King & H.Rob.,Asteraceae,Asterales,Flora,native,LC
+ESP_423,Lafoensia vandelliana subsp. replicata (Pohl) Lourteig,Lafoensia vandelliana subsp. replicata (Pohl) Lourteig,Lythraceae,Myrtales,Flora,native,LC
+ESP_424,Lamiaceae,Lamiaceae,Lamiaceae,Lamiales,Flora,Nativa,LC
+ESP_425,Langsdorffia hypogaea Mart.,Langsdorffia hypogaea Mart.,Balanophoraceae,Santalales,Flora,Nativa,LC
+ESP_426,Lantana L.,Lantana L.,Verbenaceae,Lamiales,Flora,Nativa,LC
+ESP_427,Lantana lindmanii Briq.,Lantana lindmanii Briq.,Verbenaceae,Lamiales,Flora,Nativa,LC
+ESP_428,Lasiacis divaricata (L.) Hitchc.,Lasiacis divaricata (L.) Hitchc.,Poaceae,Poales,Flora,native,LC
+ESP_429,Lauraceae,Lauraceae,Lauraceae,Laurales,Flora,Nativa,LC
+ESP_430,Lepidaploa aurea (Mart. ex DC.) H.Rob.,Lepidaploa aurea (Mart. ex DC.) H.Rob.,Asteraceae,Asterales,Flora,native,LC
+ESP_431,Leptobalanus humilis (Cham. & Schltdl.) Sothers & Prance,Leptobalanus humilis (Cham. & Schltdl.) Sothers & Prance,Chrysobalanaceae,Malpighiales,Flora,Nativa,LC
+ESP_432,Lessingianthus H.Rob.,Lessingianthus H.Rob.,Asteraceae,Asterales,Flora,Nativa,LC
+ESP_433,Lessingianthus bardanioides (Less.) H.Rob.,Lessingianthus bardanioides (Less.) H.Rob.,Asteraceae,Asterales,Flora,native,LC
+ESP_434,Lessingianthus buddlejifolius (Mart. ex DC.) H.Rob.,Lessingianthus buddlejifolius (Mart. ex DC.) H.Rob.,Asteraceae,Asterales,Flora,Nativa,LC
+ESP_435,Lessingianthus compactiflorus (Mart. ex Baker) H.Rob.,Lessingianthus compactiflorus (Mart. ex Baker) H.Rob.,Asteraceae,Asterales,Flora,native,LC
+ESP_436,Lessingianthus mansoanus (Baker) H.Rob.,Lessingianthus mansoanus (Baker) H.Rob.,Asteraceae,Asterales,Flora,Nativa,LC
+ESP_437,Lessingianthus onopordioides (Baker) H.Rob.,Lessingianthus onopordioides (Baker) H.Rob.,Asteraceae,Asterales,Flora,native,LC
+ESP_438,Lessingianthus venosissimus (Sch.Bip. ex Baker) H.Rob.,Lessingianthus venosissimus (Sch.Bip. ex Baker) H.Rob.,Asteraceae,Asterales,Flora,native,LC
+ESP_439,Leucobryum albidum (Brid. ex P.Beauv.) Lindb.,Leucobryum albidum (Brid. ex P.Beauv.) Lindb.,Leucobryaceae,Dicranales,Flora,native,LC
+ESP_440,Licania dealbata Hook.fil.,Licania dealbata Hook.fil.,Chrysobalanaceae,Malpighiales,Flora,native,LC
+ESP_441,Licania kunthiana Hook.fil.,Licania kunthiana Hook.fil.,Chrysobalanaceae,Malpighiales,Flora,native,LC
+ESP_442,Lindsaea Dryand. ex J.E.Sm.,Lindsaea Dryand. ex J.E.Sm.,Lindsaeaceae,Polypodiales,Flora,Nativa,LC
+ESP_443,Lindsaea guianensis (Aubl.) Dryand.,Lindsaea guianensis (Aubl.) Dryand.,Lindsaeaceae,Polypodiales,Flora,native,LC
+ESP_444,Lippia L.,Lippia L.,Verbenaceae,Lamiales,Flora,Nativa,LC
+ESP_445,Lippia lindmanii Briq.,Lippia lindmanii Briq.,Verbenaceae,Lamiales,Flora,native,LC
+ESP_446,Lippia martiana Schauer,Lippia martiana Schauer,Verbenaceae,Lamiales,Flora,Nativa,LC
+ESP_447,Lippia origanoides Kunth,Lippia origanoides Kunth,Verbenaceae,Lamiales,Flora,native,LC
+ESP_448,Lippia pumila Cham.,Lippia pumila Cham.,Verbenaceae,Lamiales,Flora,native,LC
+ESP_449,Lobelia Plum. ex L.,Lobelia Plum. ex L.,Campanulaceae,Asterales,Flora,Nativa,LC
+ESP_450,Lomaria spannagelii (Rosenst.) Gasper & V.A.O.Dittrich,Lomaria spannagelii (Rosenst.) Gasper & V.A.O.Dittrich,Blechnaceae,Polypodiales,Flora,native,LC
+ESP_451,Ludwigia longifolia (DC.) H.Hara,Ludwigia longifolia (DC.) H.Hara,Onagraceae,Myrtales,Flora,native,LC
+ESP_452,Ludwigia nervosa (Poir.) H.Hara,Ludwigia nervosa (Poir.) H.Hara,Onagraceae,Myrtales,Flora,native,LC
+ESP_453,Ludwigia sedioides (Bonpl.) H.Hara,Ludwigia sedioides (Bonpl.) H.Hara,Onagraceae,Myrtales,Flora,native,LC
+ESP_454,Ludwigia tomentosa (Cambess.) H.Hara,Ludwigia tomentosa (Cambess.) H.Hara,Onagraceae,Myrtales,Flora,native,LC
+ESP_455,Luehea divaricata Mart.,Luehea divaricata Mart.,Malvaceae,Malvales,Flora,native,DD
+ESP_456,Luehea speciosa Willd.,Luehea speciosa Willd.,Malvaceae,Malvales,Flora,native,LC
+ESP_457,Lytoneuron (Klotzsch) Yesilyurt,Lytoneuron (Klotzsch) Yesilyurt,Pteridaceae,Polypodiales,Flora,Nativa,LC
+ESP_458,Macairea radula (Bonpl.) DC.,Macairea radula (Bonpl.) DC.,Melastomataceae,Myrtales,Flora,native,LC
+ESP_459,Machaerium acutifolium Vogel,Machaerium acutifolium Vogel,Fabaceae,Fabales,Flora,native,LC
+ESP_460,Macropsychanthus Harms,Macropsychanthus Harms,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_461,Macropsychanthus bicolor (Hoffmanns. ex Benth.) L.P.Queiroz & Snak,Macropsychanthus bicolor (Hoffmanns. ex Benth.) L.P.Queiroz & Snak,Fabaceae,Fabales,Flora,native,LC
+ESP_462,Macropsychanthus coriaceus (Benth.) L.P.Queiroz & Snak,Macropsychanthus coriaceus (Benth.) L.P.Queiroz & Snak,Fabaceae,Fabales,Flora,native,LC
+ESP_463,Malpighiaceae,Malpighiaceae,Malpighiaceae,Malpighiales,Flora,Nativa,LC
+ESP_464,Malvaviscus arboreus Cav.,Malvaviscus arboreus Cav.,Malvaceae,Malvales,Flora,Nativa,LC
+ESP_465,Manihot Mill.,Manihot Mill.,Euphorbiaceae,Malpighiales,Flora,Nativa,LC
+ESP_466,Manihot tripartita (Spreng.) Müll.Arg.,Manihot tripartita (Spreng.) Müll.Arg.,Euphorbiaceae,Malpighiales,Flora,native,LC
+ESP_467,Marantaceae,Marantaceae,Marantaceae,Zingiberales,Flora,Nativa,LC
+ESP_468,Marsypianthes Mart. ex Benth.,Marsypianthes Mart. ex Benth.,Lamiaceae,Lamiales,Flora,Nativa,LC
+ESP_469,Matayba guianensis Aubl.,Matayba guianensis Aubl.,Sapindaceae,Sapindales,Flora,native,LC
+ESP_470,Mayaca sellowiana Kunth,Mayaca sellowiana Kunth,Mayacaceae,Poales,Flora,native,LC
+ESP_471,Medusantha Harley & J.F.B.Pastore,Medusantha Harley & J.F.B.Pastore,Lamiaceae,Lamiales,Flora,Nativa,LC
+ESP_472,Medusantha crinita (Benth.) Harley & J.F.B.Pastore,Medusantha crinita (Benth.) Harley & J.F.B.Pastore,Lamiaceae,Lamiales,Flora,native,LC
+ESP_473,Medusantha eriophylla (Pohl ex Benth.) Harley & J.F.B.Pastore,Medusantha eriophylla (Pohl ex Benth.) Harley & J.F.B.Pastore,Lamiaceae,Lamiales,Flora,native,LC
+ESP_474,Melasma strictum (Benth.) Hassl.,Melasma strictum (Benth.) Hassl.,Orobanchaceae,Lamiales,Flora,native,LC
+ESP_475,Melochia spicata (L.) Fryxell,Melochia spicata (L.) Fryxell,Malvaceae,Malvales,Flora,Nativa,LC
+ESP_476,Melothria campestris (Naudin) H.Schaef. & S.S.Renner,Melothria campestris (Naudin) H.Schaef. & S.S.Renner,Cucurbitaceae,Cucurbitales,Flora,native,LC
+ESP_477,Meniscium Schreb.,Meniscium Schreb.,Thelypteridaceae,Polypodiales,Flora,Nativa,LC
+ESP_478,Meniscium macrophyllum Kunze,Meniscium macrophyllum Kunze,Thelypteridaceae,Polypodiales,Flora,native,LC
+ESP_479,Meniscium serratum Cav.,Meniscium serratum Cav.,Thelypteridaceae,Polypodiales,Flora,Nativa,LC
+ESP_480,Miconia albicans (Sw.) Steud.,Miconia albicans (Sw.) Steud.,Melastomataceae,Myrtales,Flora,native,LC
+ESP_481,Miconia chamissois Naudin,Miconia chamissois Naudin,Melastomataceae,Myrtales,Flora,native,LC
+ESP_482,Miconia chrysophylla (Rich.) Urb.,Miconia chrysophylla (Rich.) Urb.,Melastomataceae,Myrtales,Flora,native,LC
+ESP_483,Miconia cuspidata Naudin,Miconia cuspidata Naudin,Melastomataceae,Myrtales,Flora,native,LC
+ESP_484,Miconia elegans Cogn.,Miconia elegans Cogn.,Melastomataceae,Myrtales,Flora,native,LC
+ESP_485,Miconia flammea Casar.,Miconia flammea Casar.,Melastomataceae,Myrtales,Flora,native,LC
+ESP_486,Miconia matthaei Naudin,Miconia matthaei Naudin,Melastomataceae,Myrtales,Flora,native,LC
+ESP_487,Miconia rubiginosa (Bonpl.) DC.,Miconia rubiginosa (Bonpl.) DC.,Melastomataceae,Myrtales,Flora,native,LC
+ESP_488,Miconia stenostachya (Schrank & Mart.) DC.,Miconia stenostachya (Schrank & Mart.) DC.,Melastomataceae,Myrtales,Flora,native,LC
+ESP_489,Microchloa kunthii Desv.,Microchloa kunthii Desv.,Poaceae,Poales,Flora,introduced,LC
+ESP_490,Microgramma persicariifolia (Schrad.) C.Presl,Microgramma persicariifolia (Schrad.) C.Presl,Polypodiaceae,Polypodiales,Flora,native,LC
+ESP_491,Microlicia helvola (Spreng.) Triana,Microlicia helvola (Spreng.) Triana,Melastomataceae,Myrtales,Flora,native,LC
+ESP_492,Microlicia insignis Schltdl.,Microlicia insignis Schltdl.,Melastomataceae,Myrtales,Flora,native,LC
+ESP_493,Microlicia phlogiformis (DC.) Versiane & R.Romero,Microlicia phlogiformis (DC.) Versiane & R.Romero,Melastomataceae,Myrtales,Flora,native,LC
+ESP_494,Mimosa L.,Mimosa L.,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_495,Mimosa amnis-atri Barneby,Mimosa amnis-atri Barneby,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_496,Mimosa brevipes Benth.,Mimosa brevipes Benth.,Fabaceae,Fabales,Flora,native,LC
+ESP_497,Mimosa caccavariana Santos-Silva & A.M.G.Azevedo,Mimosa caccavariana Santos-Silva & A.M.G.Azevedo,Fabaceae,Fabales,Flora,native,LC
+ESP_498,Mimosa foliolosa var. multipinna (Benth.) Barneby,Mimosa foliolosa var. multipinna (Benth.) Barneby,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_499,Mimosa paludosa Benth.,Mimosa paludosa Benth.,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_500,Mimosa pseudoradula Glaz. ex Barneby,Mimosa pseudoradula Glaz. ex Barneby,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_501,Mimosa pteridifolia Benth.,Mimosa pteridifolia Benth.,Fabaceae,Fabales,Flora,native,LC
+ESP_502,Mimosa radula Benth.,Mimosa radula Benth.,Fabaceae,Fabales,Flora,native,LC
+ESP_503,Mimosa radula var. calycina (Benth.) Barneby,Mimosa radula var. calycina (Benth.) Barneby,Fabaceae,Fabales,Flora,native,LC
+ESP_504,Mitracarpus hirtus (L.) DC.,Mitracarpus hirtus (L.) DC.,Rubiaceae,Gentianales,Flora,native,LC
+ESP_505,Mollinedia Ruiz & Pav.,Mollinedia Ruiz & Pav.,Monimiaceae,Laurales,Flora,Nativa,LC
+ESP_506,Momordica charantia L.,Momordica charantia L.,Cucurbitaceae,Cucurbitales,Flora,introduced,LC
+ESP_507,Monotagma laxum (Poepp. & Endl.) K.Schum.,Monotagma laxum (Poepp. & Endl.) K.Schum.,Marantaceae,Zingiberales,Flora,native,LC
+ESP_508,Mouriri elliptica Mart.,Mouriri elliptica Mart.,Melastomataceae,Myrtales,Flora,Nativa,LC
+ESP_509,Mucuna Adans.,Mucuna Adans.,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_510,Muntingia calabura L.,Muntingia calabura L.,Muntingiaceae,Malvales,Flora,native,LC
+ESP_511,Myrcia DC. ex Guill.,Myrcia DC. ex Guill.,Myrtaceae,Myrtales,Flora,Nativa,LC
+ESP_512,Myrcia rufipes DC.,Myrcia rufipes DC.,Myrtaceae,Myrtales,Flora,native,LC
+ESP_513,Myriopus Small,Myriopus Small,Heliotropiaceae,Boraginales,Flora,Nativa,LC
+ESP_514,Nectandra Rol. ex Rottb.,Nectandra Rol. ex Rottb.,Lauraceae,Laurales,Flora,Nativa,LC
+ESP_515,Nectandra cuspidata Nees & Mart. ex Nees,Nectandra cuspidata Nees & Mart. ex Nees,Lauraceae,Laurales,Flora,native,LC
+ESP_516,Neoblechnum brasiliense (Desv.) Gasper & V.A.O.Dittrich,Neoblechnum brasiliense (Desv.) Gasper & V.A.O.Dittrich,Blechnaceae,Polypodiales,Flora,native,LC
+ESP_517,Noterophila limnobios (DC.) Mart.,Noterophila limnobios (DC.) Mart.,Melastomataceae,Myrtales,Flora,native,LC
+ESP_518,Ochnaceae,Ochnaceae,Ochnaceae,Malpighiales,Flora,Nativa,LC
+ESP_519,Ocimum basilicum L.,Ocimum basilicum L.,Lamiaceae,Lamiales,Flora,Nativa,LC
+ESP_520,Ocotea tabacifolia (Meisn.) Rohwer,Ocotea tabacifolia (Meisn.) Rohwer,Lauraceae,Laurales,Flora,native,LC
+ESP_521,Odontadenia hypoglauca (Stadelm.) Müll.Arg.,Odontadenia hypoglauca (Stadelm.) Müll.Arg.,Apocynaceae,Gentianales,Flora,native,LC
+ESP_522,Odontadenia lutea (Vell.) Markgr.,Odontadenia lutea (Vell.) Markgr.,Apocynaceae,Gentianales,Flora,native,LC
+ESP_523,Olyra L.,Olyra L.,Poaceae,Poales,Flora,Nativa,LC
+ESP_524,Onagraceae,Onagraceae,Onagraceae,Myrtales,Flora,Nativa,LC
+ESP_525,Ormopteris pinnata (Kaulf.) Lellinger,Ormopteris pinnata (Kaulf.) Lellinger,Pteridaceae,Polypodiales,Flora,native,LC
+ESP_526,Ouratea Aubl.,Ouratea Aubl.,Ochnaceae,Malpighiales,Flora,Nativa,LC
+ESP_527,Ouratea hexasperma (A.St.-Hil.) Baill.,Ouratea hexasperma (A.St.-Hil.) Baill.,Ochnaceae,Malpighiales,Flora,native,LC
+ESP_528,Ouratea lancifolia R.G.Chacon & K.Yamam.,Ouratea lancifolia R.G.Chacon & K.Yamam.,Ochnaceae,Malpighiales,Flora,Nativa,LC
+ESP_529,Ouratea nana (A.St.-Hil.) Engl.,Ouratea nana (A.St.-Hil.) Engl.,Ochnaceae,Malpighiales,Flora,native,LC
+ESP_530,Ouratea nervosa (A.St.-Hil.) Engl.,Ouratea nervosa (A.St.-Hil.) Engl.,Ochnaceae,Malpighiales,Flora,native,LC
+ESP_531,Ouratea spectabilis Mart. ex Engl.,Ouratea spectabilis Mart. ex Engl.,Ochnaceae,Malpighiales,Flora,native,LC
+ESP_532,Oxalis L.,Oxalis L.,Oxalidaceae,Oxalidales,Flora,Nativa,LC
+ESP_533,Paepalanthus flaccidus (Bong.) Kunth,Paepalanthus flaccidus (Bong.) Kunth,Eriocaulaceae,Poales,Flora,Nativa,LC
+ESP_534,Palhinhaea Franco & Vasc.,Palhinhaea Franco & Vasc.,Lycopodiaceae,Lycopodiales,Flora,Nativa,LC
+ESP_535,Palhinhaea camporum (B.Øllg. & P.G.Windisch) Holub,Palhinhaea camporum (B.Øllg. & P.G.Windisch) Holub,Lycopodiaceae,Lycopodiales,Flora,native,LC
+ESP_536,Palicourea coriacea (Cham.) K.Schum.,Palicourea coriacea (Cham.) K.Schum.,Rubiaceae,Gentianales,Flora,native,LC
+ESP_537,Palicourea tomentosa (Aubl.) Borhidi,Palicourea tomentosa (Aubl.) Borhidi,Rubiaceae,Gentianales,Flora,Nativa,LC
+ESP_538,Parablechnum cordatum (Desv.) Gasper & Salino,Parablechnum cordatum (Desv.) Gasper & Salino,Blechnaceae,Polypodiales,Flora,native,LC
+ESP_539,Parinari obtusifolium Hook.fil.,Parinari obtusifolium Hook.fil.,Chrysobalanaceae,Malpighiales,Flora,native,LC
+ESP_540,Paspalum L.,Paspalum L.,Poaceae,Poales,Flora,Nativa,LC
+ESP_541,Paspalum densum Poir.,Paspalum densum Poir.,Poaceae,Poales,Flora,native,LC
+ESP_542,Passiflora L.,Passiflora L.,Passifloraceae,Malpighiales,Flora,Nativa,LC
+ESP_543,Passiflora amethystina J.C.Mikan,Passiflora amethystina J.C.Mikan,Passifloraceae,Malpighiales,Flora,native,LC
+ESP_544,Pavonia cancellata (L.) Cav.,Pavonia cancellata (L.) Cav.,Malvaceae,Malvales,Flora,native,LC
+ESP_545,Pavonia malacophylla (Link & Otto) Hemsl.,Pavonia malacophylla (Link & Otto) Hemsl.,Malvaceae,Malvales,Flora,native,LC
+ESP_546,Pavonia rosa-campestris A.St.-Hil.,Pavonia rosa-campestris A.St.-Hil.,Malvaceae,Malvales,Flora,native,LC
+ESP_547,Pecluma recurvata (Kaulf.) M.G.Price,Pecluma recurvata (Kaulf.) M.G.Price,Polypodiaceae,Polypodiales,Flora,native,LC
+ESP_548,Peixotoa A.Juss.,Peixotoa A.Juss.,Malpighiaceae,Malpighiales,Flora,Nativa,LC
+ESP_549,Peixotoa goiana C.E.Andersson,Peixotoa goiana C.E.Andersson,Malpighiaceae,Malpighiales,Flora,native,LC
+ESP_550,Peltaea polymorpha (A.St.-Hil.) Krapov. & Cristóbal,Peltaea polymorpha (A.St.-Hil.) Krapov. & Cristóbal,Malvaceae,Malvales,Flora,Nativa,LC
+ESP_551,Peltogyne confertiflora (Mart. ex Hayne) Benth.,Peltogyne confertiflora (Mart. ex Hayne) Benth.,Fabaceae,Fabales,Flora,native,LC
+ESP_552,Periandra heterophylla Benth.,Periandra heterophylla Benth.,Fabaceae,Fabales,Flora,native,LC
+ESP_553,Periandra mediterranea (Vell.) Taub.,Periandra mediterranea (Vell.) Taub.,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_554,Pfaffia denudata (Moq.) Kuntze,Pfaffia denudata (Moq.) Kuntze,Amaranthaceae,Caryophyllales,Flora,native,LC
+ESP_555,Phaseolus L.,Phaseolus L.,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_556,Phytolacca thyrsiflora Fenzl ex J.A.Schmidt,Phytolacca thyrsiflora Fenzl ex J.A.Schmidt,Phytolaccaceae,Caryophyllales,Flora,native,LC
+ESP_557,Pinus caribaea Morelet,Pinus caribaea Morelet,Pinaceae,Pinales,Flora,introduced,LC
+ESP_558,Piper aduncum L.,Piper aduncum L.,Piperaceae,Piperales,Flora,native,LC
+ESP_559,Piper arboreum Aubl.,Piper arboreum Aubl.,Piperaceae,Piperales,Flora,native,NT
+ESP_560,Piper fuligineum Kunth,Piper fuligineum Kunth,Piperaceae,Piperales,Flora,Nativa,LC
+ESP_561,Piper hispidum Sw.,Piper hispidum Sw.,Piperaceae,Piperales,Flora,native,LC
+ESP_562,Piper nigrum L.,Piper nigrum L.,Piperaceae,Piperales,Flora,Nativa,LC
+ESP_563,Piper ovatum Vahl,Piper ovatum Vahl,Piperaceae,Piperales,Flora,native,LC
+ESP_564,Piptocarpha rotundifolia (Less.) Baker,Piptocarpha rotundifolia (Less.) Baker,Asteraceae,Asterales,Flora,native,LC
+ESP_565,Pityrogramma Link,Pityrogramma Link,Pteridaceae,Polypodiales,Flora,Nativa,LC
+ESP_566,Pityrogramma calomelanos (L.) Link,Pityrogramma calomelanos (L.) Link,Pteridaceae,Polypodiales,Flora,native,LC
+ESP_567,Plathymenia reticulata Benth.,Plathymenia reticulata Benth.,Fabaceae,Fabales,Flora,native,VU
+ESP_568,Plenckia populnea Reissek,Plenckia populnea Reissek,Celastraceae,Celastrales,Flora,native,LC
+ESP_569,Pleroma D.Don,Pleroma D.Don,Melastomataceae,Myrtales,Flora,Nativa,LC
+ESP_570,Pleroma barbigerum (Naudin) Triana,Pleroma barbigerum (Naudin) Triana,Melastomataceae,Myrtales,Flora,Nativa,LC
+ESP_571,Pleroma martiale (Cham.) Triana,Pleroma martiale (Cham.) Triana,Melastomataceae,Myrtales,Flora,native,LC
+ESP_572,Pleroma pogonantherum (Naudin) Triana,Pleroma pogonantherum (Naudin) Triana,Melastomataceae,Myrtales,Flora,native,LC
+ESP_573,Pleroma stenocarpum (DC.) Triana,Pleroma stenocarpum (DC.) Triana,Melastomataceae,Myrtales,Flora,native,LC
+ESP_574,Poaceae,Poaceae,Poaceae,Poales,Flora,Nativa,LC
+ESP_575,Poiretia tetraphylla (Poir.) Burkart,Poiretia tetraphylla (Poir.) Burkart,Fabaceae,Fabales,Flora,native,LC
+ESP_576,Polybotrya goyazensis Brade,Polybotrya goyazensis Brade,Dryopteridaceae,Polypodiales,Flora,native,LC
+ESP_577,Polycarpaea corymbosa (L.) Lam.,Polycarpaea corymbosa (L.) Lam.,Caryophyllaceae,Caryophyllales,Flora,introduced,LC
+ESP_578,Polygala glochidata var. glochidiata Kunth,Polygala glochidata var. glochidiata Kunth,Polygalaceae,Fabales,Flora,Nativa,LC
+ESP_579,Polypodiaceae,Polypodiaceae,Polypodiaceae,Polypodiales,Flora,Nativa,LC
+ESP_580,Pontederia azurea Sw.,Pontederia azurea Sw.,Pontederiaceae,Commelinales,Flora,Nativa,LC
+ESP_581,Pouteria gardneri (Mart. & Eichler) Baehni,Pouteria gardneri (Mart. & Eichler) Baehni,Sapotaceae,Ericales,Flora,native,DD
+ESP_582,Protium heptaphyllum (Aubl.) Marchand,Protium heptaphyllum (Aubl.) Marchand,Burseraceae,Sapindales,Flora,native,LC
+ESP_583,Pseudobombax Dugand,Pseudobombax Dugand,Malvaceae,Malvales,Flora,Nativa,LC
+ESP_584,Psidium grandifolium Mart. ex DC.,Psidium grandifolium Mart. ex DC.,Myrtaceae,Myrtales,Flora,Nativa,LC
+ESP_585,Psidium guineense Sw.,Psidium guineense Sw.,Myrtaceae,Myrtales,Flora,native,LC
+ESP_586,Psychotria L.,Psychotria L.,Rubiaceae,Gentianales,Flora,Nativa,LC
+ESP_587,Psychotria carthagenensis Jacq.,Psychotria carthagenensis Jacq.,Rubiaceae,Gentianales,Flora,native,LC
+ESP_588,Pterandra pyroidea A.Juss.,Pterandra pyroidea A.Juss.,Malpighiaceae,Malpighiales,Flora,native,LC
+ESP_589,Pteridaceae,Pteridaceae,Pteridaceae,Polypodiales,Flora,Nativa,LC
+ESP_590,Pteris L.,Pteris L.,Pteridaceae,Polypodiales,Flora,Nativa,LC
+ESP_591,Pteris vittata L.,Pteris vittata L.,Pteridaceae,Polypodiales,Flora,introduced,LC
+ESP_592,Quiina florida Tul.,Quiina florida Tul.,Quiinaceae,Malpighiales,Flora,native,LC
+ESP_593,Rhynchanthera grandiflora (Aubl.) DC.,Rhynchanthera grandiflora (Aubl.) DC.,Melastomataceae,Myrtales,Flora,native,LC
+ESP_594,Rhynchanthera ursina Naudin,Rhynchanthera ursina Naudin,Melastomataceae,Myrtales,Flora,native,LC
+ESP_595,Rosa L.,Rosa L.,Rosaceae,Rosales,Flora,Nativa,LC
+ESP_596,Roupala montana Aubl.,Roupala montana Aubl.,Proteaceae,Proteales,Flora,native,LC
+ESP_597,Ruellia blechum L.,Ruellia blechum L.,Acanthaceae,Lamiales,Flora,introduced,LC
+ESP_598,Ruellia brevifolia (Pohl) C.Ezcurra,Ruellia brevifolia (Pohl) C.Ezcurra,Acanthaceae,Lamiales,Flora,native,LC
+ESP_599,Ruellia geminiflora Kunth,Ruellia geminiflora Kunth,Acanthaceae,Lamiales,Flora,native,LC
+ESP_600,Ruellia incomta (Nees) Lindau,Ruellia incomta (Nees) Lindau,Acanthaceae,Lamiales,Flora,native,LC
+ESP_601,Ruellia jussieuoides Schltdl. & Cham.,Ruellia jussieuoides Schltdl. & Cham.,Acanthaceae,Lamiales,Flora,native,LC
+ESP_602,Salacia crassifolia (Mart.) G.Don,Salacia crassifolia (Mart.) G.Don,Celastraceae,Celastrales,Flora,native,LC
+ESP_603,Salpichlaena volubilis (Kaulf.) J.Sm.,Salpichlaena volubilis (Kaulf.) J.Sm.,Blechnaceae,Polypodiales,Flora,native,LC
+ESP_604,Salvertia convallariodora A.St.-Hil.,Salvertia convallariodora A.St.-Hil.,Vochysiaceae,Myrtales,Flora,native,LC
+ESP_605,Sambucus australis Cham. & Schltdl.,Sambucus australis Cham. & Schltdl.,Viburnaceae,Dipsacales,Flora,native,LC
+ESP_606,Sambucus nigra L.,Sambucus nigra L.,Viburnaceae,Dipsacales,Flora,introduced,LC
+ESP_607,Sapium Jacq.,Sapium Jacq.,Euphorbiaceae,Malpighiales,Flora,Nativa,LC
+ESP_608,Sapium glandulosum (L.) Morong,Sapium glandulosum (L.) Morong,Euphorbiaceae,Malpighiales,Flora,native,LC
+ESP_609,Sapium haematospermum Müll.Arg.,Sapium haematospermum Müll.Arg.,Euphorbiaceae,Malpighiales,Flora,native,LC
+ESP_610,Sauvagesia erecta L.,Sauvagesia erecta L.,Ochnaceae,Malpighiales,Flora,Nativa,LC
+ESP_611,Sauvagesia racemosa A.St.-Hil.,Sauvagesia racemosa A.St.-Hil.,Ochnaceae,Malpighiales,Flora,Nativa,LC
+ESP_612,Schlotheimia Brid.,Schlotheimia Brid.,Orthotrichaceae,Orthotrichales,Flora,Nativa,LC
+ESP_613,Scrophulariaceae,Scrophulariaceae,Scrophulariaceae,Lamiales,Flora,Nativa,LC
+ESP_614,Selaginella P.Beauv.,Selaginella P.Beauv.,Selaginellaceae,Selaginellales,Flora,Nativa,LC
+ESP_615,Selaginella minima Spring,Selaginella minima Spring,Selaginellaceae,Selaginellales,Flora,native,LC
+ESP_616,Selaginella producta Baker,Selaginella producta Baker,Selaginellaceae,Selaginellales,Flora,native,LC
+ESP_617,Senna Mill.,Senna Mill.,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_618,Senna bacillaris (L.f.) H.S.Irwin & Barneby,Senna bacillaris (L.f.) H.S.Irwin & Barneby,Fabaceae,Fabales,Flora,native,LC
+ESP_619,Senna macranthera (DC. ex Collad.) H.S.Irwin & Barneby,Senna macranthera (DC. ex Collad.) H.S.Irwin & Barneby,Fabaceae,Fabales,Flora,native,LC
+ESP_620,Senna rugosa (G.Don) H.S.Irwin & Barneby,Senna rugosa (G.Don) H.S.Irwin & Barneby,Fabaceae,Fabales,Flora,native,LC
+ESP_621,Senna silvestris (Vell.) H.S.Irwin & Barneby,Senna silvestris (Vell.) H.S.Irwin & Barneby,Fabaceae,Fabales,Flora,native,LC
+ESP_622,Senna silvestris var. guaranitica (Chodat & Hassl.) H.S.Irwin & Barneby,Senna silvestris var. guaranitica (Chodat & Hassl.) H.S.Irwin & Barneby,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_623,Serjania Mill.,Serjania Mill.,Sapindaceae,Sapindales,Flora,Nativa,LC
+ESP_624,Serjania velutina Cambess.,Serjania velutina Cambess.,Sapindaceae,Sapindales,Flora,native,LC
+ESP_625,Serpocaulon A.R.Sm.,Serpocaulon A.R.Sm.,Polypodiaceae,Polypodiales,Flora,Nativa,LC
+ESP_626,Serpocaulon fraxinifolium (Jacq.) A.R.Sm.,Serpocaulon fraxinifolium (Jacq.) A.R.Sm.,Polypodiaceae,Polypodiales,Flora,Nativa,DD
+ESP_627,Sida linearifolia A.St.-Hil.,Sida linearifolia A.St.-Hil.,Malvaceae,Malvales,Flora,Nativa,LC
+ESP_628,Simarouba amara Aubl.,Simarouba amara Aubl.,Simaroubaceae,Sapindales,Flora,native,LC
+ESP_629,Sipanea hispida Benth. ex Wernham,Sipanea hispida Benth. ex Wernham,Rubiaceae,Gentianales,Flora,native,LC
+ESP_630,Siphanthera cordata Pohl ex DC.,Siphanthera cordata Pohl ex DC.,Melastomataceae,Myrtales,Flora,native,LC
+ESP_631,Siphanthera subtilis Pohl ex DC.,Siphanthera subtilis Pohl ex DC.,Melastomataceae,Myrtales,Flora,Nativa,LC
+ESP_632,Siphocampylus Pohl,Siphocampylus Pohl,Campanulaceae,Asterales,Flora,Nativa,LC
+ESP_633,Smilax L.,Smilax L.,Smilacaceae,Liliales,Flora,Nativa,LC
+ESP_634,Smilax goyazana A.DC.,Smilax goyazana A.DC.,Smilacaceae,Liliales,Flora,native,LC
+ESP_635,Solanum L.,Solanum L.,Solanaceae,Solanales,Flora,Nativa,LC
+ESP_636,Solanum concinnum Schott ex Sendtn.,Solanum concinnum Schott ex Sendtn.,Solanaceae,Solanales,Flora,native,LC
+ESP_637,Solanum falciforme Farruggia,Solanum falciforme Farruggia,Solanaceae,Solanales,Flora,native,LC
+ESP_638,Solanum pseudoquina A.St.-Hil.,Solanum pseudoquina A.St.-Hil.,Solanaceae,Solanales,Flora,native,CD
+ESP_639,Spachea A.Juss.,Spachea A.Juss.,Malpighiaceae,Malpighiales,Flora,native,LC
+ESP_640,Spermacoce L.,Spermacoce L.,Rubiaceae,Gentianales,Flora,Nativa,LC
+ESP_641,Spermacoce warmingii (K.Schum.) Kuntze,Spermacoce warmingii (K.Schum.) Kuntze,Rubiaceae,Gentianales,Flora,native,LC
+ESP_642,Spondias mombin L.,Spondias mombin L.,Anacardiaceae,Sapindales,Flora,native,LC
+ESP_643,Stachytarpheta Vahl,Stachytarpheta Vahl,Verbenaceae,Lamiales,Flora,Nativa,LC
+ESP_644,Stachytarpheta cayennensis (Rich.) Vahl,Stachytarpheta cayennensis (Rich.) Vahl,Verbenaceae,Lamiales,Flora,native,EX
+ESP_645,Sterculia striata A.St.-Hil. & Naudin,Sterculia striata A.St.-Hil. & Naudin,Malvaceae,Malvales,Flora,native,LC
+ESP_646,Stilpnopappus Mart. ex DC.,Stilpnopappus Mart. ex DC.,Asteraceae,Asterales,Flora,Nativa,LC
+ESP_647,Stilpnopappus bullatus Krasch.,Stilpnopappus bullatus Krasch.,Asteraceae,Asterales,Flora,native,LC
+ESP_648,Stilpnopappus ferrugineus Baker,Stilpnopappus ferrugineus Baker,Asteraceae,Asterales,Flora,native,LC
+ESP_649,Stilpnopappus glomeratus Gardner,Stilpnopappus glomeratus Gardner,Asteraceae,Asterales,Flora,native,LC
+ESP_650,Strychnos pseudoquina A.St.-Hil.,Strychnos pseudoquina A.St.-Hil.,Loganiaceae,Gentianales,Flora,native,LC
+ESP_651,Stryphnodendron rotundifolium Mart.,Stryphnodendron rotundifolium Mart.,Fabaceae,Fabales,Flora,native,LC
+ESP_652,Styrax L.,Styrax L.,Styracaceae,Ericales,Flora,Nativa,LC
+ESP_653,Styrax camporum Pohl,Styrax camporum Pohl,Styracaceae,Ericales,Flora,native,LC
+ESP_654,Styrax ferrugineus Nees & Mart.,Styrax ferrugineus Nees & Mart.,Styracaceae,Ericales,Flora,native,LC
+ESP_655,Syagrus Mart.,Syagrus Mart.,Arecaceae,Arecales,Flora,Nativa,LC
+ESP_656,Syagrus caerulescens Noblick & Lorenzi,Syagrus caerulescens Noblick & Lorenzi,Arecaceae,Arecales,Flora,native,LC
+ESP_657,Tabebuia aurea (Silva Manso) Benth. & Hook.fil. ex S.Moore,Tabebuia aurea (Silva Manso) Benth. & Hook.fil. ex S.Moore,Bignoniaceae,Lamiales,Flora,native,LC
+ESP_658,Tabebuia roseoalba (Ridl.) Sandwith,Tabebuia roseoalba (Ridl.) Sandwith,Bignoniaceae,Lamiales,Flora,native,NT
+ESP_659,Taccarum crassispathum E.G.Gonç.,Taccarum crassispathum E.G.Gonç.,Araceae,Alismatales,Flora,Nativa,LC
+ESP_660,Tachigali rubiginosa (Mart. ex Tul.) Oliveira-Filho,Tachigali rubiginosa (Mart. ex Tul.) Oliveira-Filho,Fabaceae,Fabales,Flora,native,LC
+ESP_661,Tachigali vulgaris L.F.Gomes da Silva & H.C.Lima,Tachigali vulgaris L.F.Gomes da Silva & H.C.Lima,Fabaceae,Fabales,Flora,native,LC
+ESP_662,Tagetes erecta L.,Tagetes erecta L.,Asteraceae,Asterales,Flora,Nativa,LC
+ESP_663,Tapirira guianensis Aubl.,Tapirira guianensis Aubl.,Anacardiaceae,Sapindales,Flora,native,LC
+ESP_664,Terminalia corrugata (Ducke) Gere & Boatwr.,Terminalia corrugata (Ducke) Gere & Boatwr.,Combretaceae,Myrtales,Flora,native,LC
+ESP_665,Terminalia glabrescens Mart.,Terminalia glabrescens Mart.,Combretaceae,Myrtales,Flora,native,LC
+ESP_666,Thelypteridaceae,Thelypteridaceae,Thelypteridaceae,Polypodiales,Flora,Nativa,LC
+ESP_667,Theobroma grandiflorum (Willd. ex Spreng.) Schum.,Theobroma grandiflorum (Willd. ex Spreng.) Schum.,Malvaceae,Malvales,Flora,native,LC
+ESP_668,Tilesia baccata (L.) Pruski,Tilesia baccata (L.) Pruski,Asteraceae,Asterales,Flora,introduced,LC
+ESP_669,Tocoyena formosa (Cham. & Schltdl.) K.Schum.,Tocoyena formosa (Cham. & Schltdl.) K.Schum.,Rubiaceae,Gentianales,Flora,native,LC
+ESP_670,Toulicia tomentosa Radlk.,Toulicia tomentosa Radlk.,Sapindaceae,Sapindales,Flora,Nativa,LC
+ESP_671,Trema micranthum (L.) Blume,Trema micranthum (L.) Blume,Cannabaceae,Rosales,Flora,native,LC
+ESP_672,Trichilia P.Browne,Trichilia P.Browne,Meliaceae,Sapindales,Flora,Nativa,LC
+ESP_673,Trichogonia (DC.) Gardner,Trichogonia (DC.) Gardner,Asteraceae,Asterales,Flora,Nativa,LC
+ESP_674,Trichomanes cristatum Kaulf.,Trichomanes cristatum Kaulf.,Hymenophyllaceae,Hymenophyllales,Flora,native,LC
+ESP_675,Trichomanes pinnatum Hedw.,Trichomanes pinnatum Hedw.,Hymenophyllaceae,Hymenophyllales,Flora,native,LC
+ESP_676,Triumfetta semitriloba Jacq.,Triumfetta semitriloba Jacq.,Malvaceae,Malvales,Flora,native,LC
+ESP_677,Trixis divaricata subsp. divaricata,Trixis divaricata subsp. divaricata,Asteraceae,Asterales,Flora,native,LC
+ESP_678,Urceolina Rchb.,Urceolina Rchb.,Amaryllidaceae,Asparagales,Flora,Nativa,LC
+ESP_679,Urvillea Kunth,Urvillea Kunth,Sapindaceae,Sapindales,Flora,Nativa,LC
+ESP_680,Urvillea laevis Radlk.,Urvillea laevis Radlk.,Sapindaceae,Sapindales,Flora,native,LC
+ESP_681,Vellozia Vand.,Vellozia Vand.,Velloziaceae,Pandanales,Flora,Nativa,LC
+ESP_682,Vernonanthura membranacea (Gardner) H.Rob.,Vernonanthura membranacea (Gardner) H.Rob.,Asteraceae,Asterales,Flora,native,LC
+ESP_683,Vernonanthura polyanthes (Spreng.) A.J.Vega & Dematt.,Vernonanthura polyanthes (Spreng.) A.J.Vega & Dematt.,Asteraceae,Asterales,Flora,native,LC
+ESP_684,Virola sebifera Aubl.,Virola sebifera Aubl.,Myristicaceae,Magnoliales,Flora,native,LC
+ESP_685,Vitis vinifera L.,Vitis vinifera L.,Vitaceae,Vitales,Flora,Nativa,LC
+ESP_686,Waltheria bracteosa A.St.-Hil. & Naudin,Waltheria bracteosa A.St.-Hil. & Naudin,Malvaceae,Malvales,Flora,native,LC
+ESP_687,Wedelia puberula DC.,Wedelia puberula DC.,Asteraceae,Asterales,Flora,native,LC
+ESP_688,Xylopia aromatica (Lam.) Mart.,Xylopia aromatica (Lam.) Mart.,Annonaceae,Magnoliales,Flora,native,LC
+ESP_689,Xyris Gronov. ex L.,Xyris Gronov. ex L.,Xyridaceae,Poales,Flora,Nativa,LC
+ESP_690,Zamia furfuracea L.f.,Zamia furfuracea L.f.,Zamiaceae,Cycadales,Flora,Nativa,EN
+ESP_691,Zanthoxylum rhoifolium Lam.,Zanthoxylum rhoifolium Lam.,Rutaceae,Sapindales,Flora,native,LC
+ESP_692,Zanthoxylum riedelianum Engl.,Zanthoxylum riedelianum Engl.,Rutaceae,Sapindales,Flora,native,LC
+ESP_693,Zeyheria montana Mart.,Zeyheria montana Mart.,Bignoniaceae,Lamiales,Flora,native,LC
+ESP_694,Zornia J.F.Gmel.,Zornia J.F.Gmel.,Fabaceae,Fabales,Flora,Nativa,LC
+ESP_695,Zornia virgata Moric.,Zornia virgata Moric.,Fabaceae,Fabales,Flora,native,LC
+ESP_696,"Alouatta caraya (Humboldt, 1812)","Alouatta caraya (Humboldt, 1812)",Atelidae,Primates,Mammalia,Nativa,NT
+ESP_697,"Blastocerus dichotomus (Illiger, 1815)","Blastocerus dichotomus (Illiger, 1815)",Cervidae,Artiodactyla,Mammalia,Nativa,VU
+ESP_698,"Bos taurus Linnaeus, 1758","Bos taurus Linnaeus, 1758",Bovidae,Artiodactyla,Mammalia,Nativa,LC
+ESP_699,"Cabassous unicinctus squamicaudis (Lund, 1845)","Cabassous unicinctus squamicaudis (Lund, 1845)",Dasypodidae,Cingulata,Mammalia,Nativa,LC
+ESP_700,"Callithrix penicillata (É.Geoffroy Saint-Hilaire, 1812)","Callithrix penicillata (É.Geoffroy Saint-Hilaire, 1812)",Callitrichidae,Primates,Mammalia,Nativa,LC
+ESP_701,"Cerdocyon thous (Linnaeus, 1766)","Cerdocyon thous (Linnaeus, 1766)",Canidae,Carnivora,Mammalia,Nativa,LC
+ESP_702,"Chrotopterus auritus (Peters, 1856)","Chrotopterus auritus (Peters, 1856)",Phyllostomidae,Chiroptera,Mammalia,Nativa,LC
+ESP_703,"Chrysocyon brachyurus (Illiger, 1815)","Chrysocyon brachyurus (Illiger, 1815)",Canidae,Carnivora,Mammalia,Nativa,NT
+ESP_704,"Coendou longicaudatus Daudin, 1802","Coendou longicaudatus Daudin, 1802",Erethizontidae,Rodentia,Mammalia,Nativa,LC
+ESP_705,"Conepatus Gray, 1837","Conepatus Gray, 1837",Mephitidae,Carnivora,Mammalia,Nativa,LC
+ESP_706,"Cuniculus paca (Linnaeus, 1766)","Cuniculus paca (Linnaeus, 1766)",Cuniculidae,Rodentia,Mammalia,Nativa,LC
+ESP_707,"Dasyprocta azarae Lichtenstein, 1823","Dasyprocta azarae Lichtenstein, 1823",Dasyproctidae,Rodentia,Mammalia,Nativa,DD
+ESP_708,"Dasypus septemcinctus Linnaeus, 1758","Dasypus septemcinctus Linnaeus, 1758",Dasypodidae,Cingulata,Mammalia,Nativa,LC
+ESP_709,"Didelphis albiventris Lund, 1840","Didelphis albiventris Lund, 1840",Didelphidae,Didelphimorphia,Mammalia,Nativa,LC
+ESP_710,"Eira barbara (Linnaeus, 1758)","Eira barbara (Linnaeus, 1758)",Mustelidae,Carnivora,Mammalia,Nativa,LC
+ESP_711,"Equus caballus Linnaeus, 1758","Equus caballus Linnaeus, 1758",Equidae,Perissodactyla,Mammalia,Nativa,LC
+ESP_712,"Euphractus sexcinctus (Linnaeus, 1758)","Euphractus sexcinctus (Linnaeus, 1758)",Dasypodidae,Cingulata,Mammalia,Nativa,LC
+ESP_713,"Euphractus sexcinctus flavimanus (Desmarest, 1804)","Euphractus sexcinctus flavimanus (Desmarest, 1804)",Dasypodidae,Cingulata,Mammalia,Nativa,LC
+ESP_714,"Felis catus Linnaeus, 1758","Felis catus Linnaeus, 1758",Felidae,Carnivora,Mammalia,Nativa,LC
+ESP_715,"Galictis cuja (Molina, 1782)","Galictis cuja (Molina, 1782)",Mustelidae,Carnivora,Mammalia,Nativa,LC
+ESP_716,"Glossophaga soricina (Pallas, 1766)","Glossophaga soricina (Pallas, 1766)",Phyllostomidae,Chiroptera,Mammalia,Nativa,LC
+ESP_717,"Gracilinanus agilis (Burmeister, 1854)","Gracilinanus agilis (Burmeister, 1854)",Didelphidae,Didelphimorphia,Mammalia,Nativa,LC
+ESP_718,"Hydrochoerus hydrochaeris (Linnaeus, 1766)","Hydrochoerus hydrochaeris (Linnaeus, 1766)",Caviidae,Rodentia,Mammalia,Nativa,LC
+ESP_719,"Leopardus braccatus (Cope, 1889)","Leopardus braccatus (Cope, 1889)",Felidae,Carnivora,Mammalia,Nativa,LC
+ESP_720,"Leopardus pardalis mitis (F.G.Cuvier, 1820)","Leopardus pardalis mitis (F.G.Cuvier, 1820)",Felidae,Carnivora,Mammalia,Nativa,LC
+ESP_721,"Lycalopex vetulus (Lund, 1842)","Lycalopex vetulus (Lund, 1842)",Canidae,Carnivora,Mammalia,Nativa,NT
+ESP_722,"Mazama Rafinesque, 1817","Mazama Rafinesque, 1817",Cervidae,Artiodactyla,Mammalia,Nativa,LC
+ESP_723,"Myrmecophaga tridactyla Linnaeus, 1758","Myrmecophaga tridactyla Linnaeus, 1758",Myrmecophagidae,Pilosa,Mammalia,Nativa,VU
+ESP_724,"Nasua nasua (Linnaeus, 1766)","Nasua nasua (Linnaeus, 1766)",Procyonidae,Carnivora,Mammalia,Nativa,LC
+ESP_725,"Necromys lasiurus (Lund, 1841)","Necromys lasiurus (Lund, 1841)",Cricetidae,Rodentia,Mammalia,Nativa,LC
+ESP_726,"Ozotoceros bezoarticus (Linnaeus, 1758)","Ozotoceros bezoarticus (Linnaeus, 1758)",Cervidae,Artiodactyla,Mammalia,Nativa,NT
+ESP_727,"Ozotoceros bezoarticus bezoarticus (Linnaeus, 1758)","Ozotoceros bezoarticus bezoarticus (Linnaeus, 1758)",Cervidae,Artiodactyla,Mammalia,Nativa,LC
+ESP_728,"Panthera onca (Linnaeus, 1758)","Panthera onca (Linnaeus, 1758)",Felidae,Carnivora,Mammalia,Nativa,NT
+ESP_729,"Pecari tajacu (Linnaeus, 1758)","Pecari tajacu (Linnaeus, 1758)",Tayassuidae,Artiodactyla,Mammalia,Nativa,LC
+ESP_730,"Pecari tajacu tajacu (Linnaeus, 1758)","Pecari tajacu tajacu (Linnaeus, 1758)",Tayassuidae,Artiodactyla,Mammalia,Nativa,LC
+ESP_731,"Puma concolor (Linnaeus, 1771)","Puma concolor (Linnaeus, 1771)",Felidae,Carnivora,Mammalia,Nativa,LC
+ESP_732,"Sapajus cay (Illiger, 1815)","Sapajus cay (Illiger, 1815)",Cebidae,Primates,Mammalia,Nativa,VU
+ESP_733,"Sapajus libidinosus (Spix, 1823)","Sapajus libidinosus (Spix, 1823)",Cebidae,Primates,Mammalia,Nativa,NT
+ESP_734,"Tamandua tetradactyla (Linnaeus, 1758)","Tamandua tetradactyla (Linnaeus, 1758)",Myrmecophagidae,Pilosa,Mammalia,Nativa,LC
+ESP_735,"Tapirus terrestris (Linnaeus, 1758)","Tapirus terrestris (Linnaeus, 1758)",Tapiridae,Perissodactyla,Mammalia,Nativa,VU
+ESP_736,"Tapirus terrestris spegazzinii Amhegino, 1909","Tapirus terrestris spegazzinii Amhegino, 1909",Tapiridae,Perissodactyla,Mammalia,Nativa,LC
+ESP_737,"Tapirus terrestris terrestris (Linnaeus, 1758)","Tapirus terrestris terrestris (Linnaeus, 1758)",Tapiridae,Perissodactyla,Mammalia,Nativa,LC
+ESP_738,"Tayassu pecari albirostris (Illiger, 1815)","Tayassu pecari albirostris (Illiger, 1815)",Tayassuidae,Artiodactyla,Mammalia,Nativa,LC

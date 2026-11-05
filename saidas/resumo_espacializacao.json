@@ -1,0 +1,35 @@
+[
+  {
+    "tabela": "gbif_fauna",
+    "grupo": "Fauna",
+    "arquivo": "dados/bruto\\gbif_fauna.csv",
+    "total_registros": 1500,
+    "dentro_6_municipios": 861,
+    "fora_6_municipios": 639,
+    "sem_coordenadas": 0,
+    "detalhe_por_municipio": {
+      "Mineiros": 771,
+      "Rio Verde": 38,
+      "Jataí": 27,
+      "Serranópolis": 23,
+      "Perolândia": 1,
+      "Caiapônia": 1
+    }
+  },
+  {
+    "tabela": "gbif_flora",
+    "grupo": "Flora",
+    "arquivo": "dados/bruto\\gbif_flora.csv",
+    "total_registros": 1500,
+    "dentro_6_municipios": 1263,
+    "fora_6_municipios": 237,
+    "sem_coordenadas": 0,
+    "detalhe_por_municipio": {
+      "Mineiros": 426,
+      "Jataí": 417,
+      "Serranópolis": 322,
+      "Rio Verde": 73,
+      "Caiapônia": 25
+    }
+  }
+]

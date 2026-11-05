@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Se reutilizar este trabalho, cite como abaixo."
+title: "Do formulário ao banco de dados ecológico — PELD Goiás"
+abstract: >-
+  Um kit em R que lê as planilhas de fauna e flora pelo dicionário de colunas, faz point-in-polygon, monta um banco SQLite e uma tabela de análise — com os limites de amostra, escala e perfil de pessoas explícitos.
+authors:
+  - family-names: "Amaral"
+    given-names: "Victor"
+    affiliation: "LAPIG/UFG"
+date-released: 2026-11-05
+url: "https://victorgit10.github.io/thamyres-peld/"
+repository-code: "https://github.com/VictorGit10/thamyres-peld"
+license: CC-BY-4.0
+keywords:
+  - "PELD"
+  - "biodiversidade"
+  - "fauna"
+  - "flora"
+  - "dicionário de colunas"
+  - "SQLite"
+  - "point-in-polygon"
+  - "IA generativa"

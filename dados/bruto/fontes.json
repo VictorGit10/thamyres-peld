@@ -1,0 +1,132 @@
+{
+  "data_execucao": "2026-11-04 15:25:47.500816",
+  "fuso_horario": "America/Sao_Paulo",
+  "gbif": {
+    "flora": {
+      "grupo": "Plantae (Flora)",
+      "taxonKey": 6,
+      "basisOfRecord": "PRESERVED_SPECIMEN",
+      "total_disponivel": 10109,
+      "registros_baixados": 1500,
+      "natureza_amostra": "Amostra de conveniencia de 1.500 registros (primeiras paginas), nao aleatoria; nao representa o universo",
+      "colunas": 166,
+      "url_base": "https://api.gbif.org/v1/occurrence/search?decimalLatitude=-19.0,-17.0&decimalLongitude=-53.0,-50.5&year=2010,2026&taxonKey=6&basisOfRecord=PRESERVED_SPECIMEN",
+      "urls_consultadas": [
+        "https://api.gbif.org/v1/occurrence/search?decimalLatitude=-19.0,-17.0&decimalLongitude=-53.0,-50.5&year=2010,2026&taxonKey=6&basisOfRecord=PRESERVED_SPECIMEN&limit=300&offset=0",
+        "https://api.gbif.org/v1/occurrence/search?decimalLatitude=-19.0,-17.0&decimalLongitude=-53.0,-50.5&year=2010,2026&taxonKey=6&basisOfRecord=PRESERVED_SPECIMEN&limit=300&offset=300",
+        "https://api.gbif.org/v1/occurrence/search?decimalLatitude=-19.0,-17.0&decimalLongitude=-53.0,-50.5&year=2010,2026&taxonKey=6&basisOfRecord=PRESERVED_SPECIMEN&limit=300&offset=600",
+        "https://api.gbif.org/v1/occurrence/search?decimalLatitude=-19.0,-17.0&decimalLongitude=-53.0,-50.5&year=2010,2026&taxonKey=6&basisOfRecord=PRESERVED_SPECIMEN&limit=300&offset=900",
+        "https://api.gbif.org/v1/occurrence/search?decimalLatitude=-19.0,-17.0&decimalLongitude=-53.0,-50.5&year=2010,2026&taxonKey=6&basisOfRecord=PRESERVED_SPECIMEN&limit=300&offset=1200"
+      ]
+    },
+    "fauna": {
+      "grupo": "Aves e Mammalia (Fauna)",
+      "taxonKeys": [
+        212,
+        359
+      ],
+      "basisOfRecord": "TODOS",
+      "total_disponivel": 52016,
+      "total_disponivel_aves": 47849,
+      "total_disponivel_mamiferos": 4167,
+      "registros_baixados": 1500,
+      "natureza_amostra": "Amostra de conveniencia de 1.500 registros (900 aves + 600 mamiferos, primeiras paginas), nao aleatoria; nao representa o universo",
+      "colunas": 176,
+      "url_base_aves": "https://api.gbif.org/v1/occurrence/search?decimalLatitude=-19.0,-17.0&decimalLongitude=-53.0,-50.5&year=2010,2026&taxonKey=212",
+      "url_base_mam": "https://api.gbif.org/v1/occurrence/search?decimalLatitude=-19.0,-17.0&decimalLongitude=-53.0,-50.5&year=2010,2026&taxonKey=359",
+      "urls_consultadas": [
+        "https://api.gbif.org/v1/occurrence/search?decimalLatitude=-19.0,-17.0&decimalLongitude=-53.0,-50.5&year=2010,2026&taxonKey=212&limit=300&offset=0",
+        "https://api.gbif.org/v1/occurrence/search?decimalLatitude=-19.0,-17.0&decimalLongitude=-53.0,-50.5&year=2010,2026&taxonKey=212&limit=300&offset=300",
+        "https://api.gbif.org/v1/occurrence/search?decimalLatitude=-19.0,-17.0&decimalLongitude=-53.0,-50.5&year=2010,2026&taxonKey=212&limit=300&offset=600",
+        "https://api.gbif.org/v1/occurrence/search?decimalLatitude=-19.0,-17.0&decimalLongitude=-53.0,-50.5&year=2010,2026&taxonKey=359&limit=300&offset=0",
+        "https://api.gbif.org/v1/occurrence/search?decimalLatitude=-19.0,-17.0&decimalLongitude=-53.0,-50.5&year=2010,2026&taxonKey=359&limit=300&offset=300"
+      ]
+    }
+  },
+  "ibge": {
+    "data_execucao": "2026-11-04 15:26:16.510052",
+    "municipios_selecionados": [
+      "Caiapônia",
+      "Jataí",
+      "Mineiros",
+      "Perolândia",
+      "Rio Verde",
+      "Serranópolis"
+    ],
+    "codigos_ibge": [
+      "5204409",
+      "5211909",
+      "5213103",
+      "5216452",
+      "5218805",
+      "5220504"
+    ],
+    "url_malhas": "https://servicodados.ibge.gov.br/api/v3/malhas/municipios/{codigo}?formato=application/vnd.geo+json",
+    "sidra_tabelas": {
+      "pop_2022": {
+        "tabela": 9514,
+        "variavel": 93,
+        "url": "https://apisidra.ibge.gov.br/values/t/9514/n6/5204409,5211909,5213103,5216452,5218805,5220504/v/93/p/last%201"
+      },
+      "pop_rural_2010": {
+        "tabela": 200,
+        "variavel": 93,
+        "classificacao": "c1/all",
+        "url": "https://apisidra.ibge.gov.br/values/t/200/n6/5204409,5211909,5213103,5216452,5218805,5220504/v/93/p/last%201/c1/all"
+      },
+      "pib_2021": {
+        "tabela": 5938,
+        "variaveis": [
+          37,
+          513
+        ],
+        "url": "https://apisidra.ibge.gov.br/values/t/5938/n6/5204409,5211909,5213103,5216452,5218805,5220504/v/37,513/p/2021"
+      }
+    }
+  },
+  "mapbiomas_gee": {
+    "data_execucao": "2026-11-04 15:26:56",
+    "asset": "projects/mapbiomas-public/assets/brazil/lulc/collection11/mapbiomas_brazil_collection11_coverage_v3",
+    "anos": [
+      2015,
+      2020,
+      2024
+    ],
+    "escalas_buffer_m": [
+      0,
+      5000,
+      10000
+    ],
+    "classes": {
+      "nativa": [
+        3,
+        4,
+        11,
+        12,
+        29
+      ],
+      "pastagem": [
+        15
+      ],
+      "agricultura": [
+        18,
+        19,
+        20,
+        36,
+        39,
+        40,
+        41,
+        46,
+        47,
+        48
+      ],
+      "urbano": [
+        24
+      ],
+      "agua": [
+        33
+      ]
+    },
+    "total_combinacoes": 54
+  }
+}

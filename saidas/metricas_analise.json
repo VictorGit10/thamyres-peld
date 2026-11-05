@@ -1,0 +1,307 @@
+{
+  "data_analise": "2026-11-04 15:27:26.011978",
+  "amostra": {
+    "n_municipios": 6,
+    "soma_populacao_2022": 429010,
+    "municipios": ["Caiapônia", "Jataí", "Mineiros", "Perolândia", "Rio Verde", "Serranópolis"],
+    "total_registros_brutos": 3000,
+    "total_registros_fora_poligono": 876,
+    "total_registros_canonicos": 2124,
+    "total_especies_geral": 738,
+    "total_especies_flora": 535,
+    "total_especies_aves": 160,
+    "total_especies_mamiferos": 43,
+    "total_familias_geral": 182,
+    "total_ordens_geral": 76,
+    "incerteza_espacial": {
+      "total_incerteza_na": 1414,
+      "flora_incerteza_na": 1263,
+      "fauna_incerteza_na": 151,
+      "fauna_incerteza_maior_5km": 534,
+      "total_valido_paisagem": 176,
+      "total_invalido_paisagem": 1948,
+      "pct_valido_paisagem": 8.29,
+      "criterio_filtro": "Valido para analise de paisagem (buffer 5 km) se incerteza conhecida E <= 5000m. Incerteza NA tratada conservadoramente como invalida."
+    }
+  },
+  "riqueza_por_municipio": [
+    {
+      "id_local": "LOC_CAI",
+      "grupo": "Aves",
+      "total_registros": 1,
+      "riqueza_especies": 1,
+      "n_com_contagem_real": 0,
+      "nome_local": "Caiapônia",
+      "municipio": "Caiapônia"
+    },
+    {
+      "id_local": "LOC_CAI",
+      "grupo": "Flora",
+      "total_registros": 25,
+      "riqueza_especies": 21,
+      "n_com_contagem_real": 14,
+      "nome_local": "Caiapônia",
+      "municipio": "Caiapônia"
+    },
+    {
+      "id_local": "LOC_JAT",
+      "grupo": "Aves",
+      "total_registros": 22,
+      "riqueza_especies": 12,
+      "n_com_contagem_real": 0,
+      "nome_local": "Jataí",
+      "municipio": "Jataí"
+    },
+    {
+      "id_local": "LOC_JAT",
+      "grupo": "Flora",
+      "total_registros": 417,
+      "riqueza_especies": 234,
+      "n_com_contagem_real": 35,
+      "nome_local": "Jataí",
+      "municipio": "Jataí"
+    },
+    {
+      "id_local": "LOC_JAT",
+      "grupo": "Mammalia",
+      "total_registros": 5,
+      "riqueza_especies": 3,
+      "n_com_contagem_real": 0,
+      "nome_local": "Jataí",
+      "municipio": "Jataí"
+    },
+    {
+      "id_local": "LOC_MIN",
+      "grupo": "Aves",
+      "total_registros": 429,
+      "riqueza_especies": 154,
+      "n_com_contagem_real": 111,
+      "nome_local": "Mineiros",
+      "municipio": "Mineiros"
+    },
+    {
+      "id_local": "LOC_MIN",
+      "grupo": "Flora",
+      "total_registros": 426,
+      "riqueza_especies": 187,
+      "n_com_contagem_real": 72,
+      "nome_local": "Mineiros",
+      "municipio": "Mineiros"
+    },
+    {
+      "id_local": "LOC_MIN",
+      "grupo": "Mammalia",
+      "total_registros": 342,
+      "riqueza_especies": 36,
+      "n_com_contagem_real": 0,
+      "nome_local": "Mineiros",
+      "municipio": "Mineiros"
+    },
+    {
+      "id_local": "LOC_PER",
+      "grupo": "Aves",
+      "total_registros": 1,
+      "riqueza_especies": 1,
+      "n_com_contagem_real": 0,
+      "nome_local": "Perolândia",
+      "municipio": "Perolândia"
+    },
+    {
+      "id_local": "LOC_RVE",
+      "grupo": "Aves",
+      "total_registros": 11,
+      "riqueza_especies": 9,
+      "n_com_contagem_real": 0,
+      "nome_local": "Rio Verde",
+      "municipio": "Rio Verde"
+    },
+    {
+      "id_local": "LOC_RVE",
+      "grupo": "Flora",
+      "total_registros": 73,
+      "riqueza_especies": 40,
+      "n_com_contagem_real": 0,
+      "nome_local": "Rio Verde",
+      "municipio": "Rio Verde"
+    },
+    {
+      "id_local": "LOC_RVE",
+      "grupo": "Mammalia",
+      "total_registros": 27,
+      "riqueza_especies": 14,
+      "n_com_contagem_real": 3,
+      "nome_local": "Rio Verde",
+      "municipio": "Rio Verde"
+    },
+    {
+      "id_local": "LOC_SER",
+      "grupo": "Aves",
+      "total_registros": 16,
+      "riqueza_especies": 14,
+      "n_com_contagem_real": 0,
+      "nome_local": "Serranópolis",
+      "municipio": "Serranópolis"
+    },
+    {
+      "id_local": "LOC_SER",
+      "grupo": "Flora",
+      "total_registros": 322,
+      "riqueza_especies": 126,
+      "n_com_contagem_real": 60,
+      "nome_local": "Serranópolis",
+      "municipio": "Serranópolis"
+    },
+    {
+      "id_local": "LOC_SER",
+      "grupo": "Mammalia",
+      "total_registros": 7,
+      "riqueza_especies": 6,
+      "n_com_contagem_real": 0,
+      "nome_local": "Serranópolis",
+      "municipio": "Serranópolis"
+    }
+  ],
+  "valores_municipios": [
+    {
+      "municipio": "Caiapônia",
+      "codigo_ibge": 5204409,
+      "populacao": 16513,
+      "pop_rural_pct": 26.78,
+      "pib_mil_reais": 821715,
+      "pib_per_capita": 49761.7,
+      "agro_pct_pib": 52.69,
+      "pct_nativa_mun": 38.88,
+      "pct_pasto_mun": 42.75,
+      "pct_agri_mun": 13.52,
+      "pct_nativa_buf5km": 30.91,
+      "pct_pasto_buf5km": 57.14,
+      "pct_agri_buf5km": 2.3,
+      "pct_nativa_buf10km": 35.16,
+      "pct_pasto_buf10km": 51.66,
+      "pct_agri_buf10km": 7.84
+    },
+    {
+      "municipio": "Jataí",
+      "codigo_ibge": 5211909,
+      "populacao": 105729,
+      "pop_rural_pct": 7.95,
+      "pib_mil_reais": 7997057,
+      "pib_per_capita": 75637.31,
+      "agro_pct_pib": 31.07,
+      "pct_nativa_mun": 20.17,
+      "pct_pasto_mun": 27.77,
+      "pct_agri_mun": 43.24,
+      "pct_nativa_buf5km": 25.27,
+      "pct_pasto_buf5km": 11.13,
+      "pct_agri_buf5km": 41.78,
+      "pct_nativa_buf10km": 23.66,
+      "pct_pasto_buf10km": 10.76,
+      "pct_agri_buf10km": 45.29
+    },
+    {
+      "municipio": "Mineiros",
+      "codigo_ibge": 5213103,
+      "populacao": 70081,
+      "pop_rural_pct": 8.78,
+      "pib_mil_reais": 3288959,
+      "pib_per_capita": 46930.82,
+      "agro_pct_pib": 31.29,
+      "pct_nativa_mun": 43.28,
+      "pct_pasto_mun": 31.88,
+      "pct_agri_mun": 19.9,
+      "pct_nativa_buf5km": 16.36,
+      "pct_pasto_buf5km": 10.53,
+      "pct_agri_buf5km": 68.44,
+      "pct_nativa_buf10km": 21.24,
+      "pct_pasto_buf10km": 12.14,
+      "pct_agri_buf10km": 61.17
+    },
+    {
+      "municipio": "Perolândia",
+      "codigo_ibge": 5216452,
+      "populacao": 2964,
+      "pop_rural_pct": 36.98,
+      "pib_mil_reais": 708423,
+      "pib_per_capita": 239009.11,
+      "agro_pct_pib": 44.64,
+      "pct_nativa_mun": 18.72,
+      "pct_pasto_mun": 9.58,
+      "pct_agri_mun": 66.36,
+      "pct_nativa_buf5km": 20.5,
+      "pct_pasto_buf5km": 10.67,
+      "pct_agri_buf5km": 61.94,
+      "pct_nativa_buf10km": 25.95,
+      "pct_pasto_buf10km": 11.28,
+      "pct_agri_buf10km": 57.65
+    },
+    {
+      "municipio": "Rio Verde",
+      "codigo_ibge": 5218805,
+      "populacao": 225696,
+      "pop_rural_pct": 7.3,
+      "pib_mil_reais": 16307342,
+      "pib_per_capita": 72253.57,
+      "agro_pct_pib": 22.66,
+      "pct_nativa_mun": 18.55,
+      "pct_pasto_mun": 14.72,
+      "pct_agri_mun": 57,
+      "pct_nativa_buf5km": 17.74,
+      "pct_pasto_buf5km": 15.35,
+      "pct_agri_buf5km": 55.51,
+      "pct_nativa_buf10km": 17.09,
+      "pct_pasto_buf10km": 17.67,
+      "pct_agri_buf10km": 49.44
+    },
+    {
+      "municipio": "Serranópolis",
+      "codigo_ibge": 5220504,
+      "populacao": 8027,
+      "pop_rural_pct": 26.03,
+      "pib_mil_reais": 652613,
+      "pib_per_capita": 81302.23,
+      "agro_pct_pib": 50.89,
+      "pct_nativa_mun": 33.7,
+      "pct_pasto_mun": 47.45,
+      "pct_agri_mun": 12.6,
+      "pct_nativa_buf5km": 47.15,
+      "pct_pasto_buf5km": 40.07,
+      "pct_agri_buf5km": 0,
+      "pct_nativa_buf10km": 46.51,
+      "pct_pasto_buf10km": 44.26,
+      "pct_agri_buf10km": 0.03
+    }
+  ],
+  "correlacoes_spearman": {
+    "nativa_mun_vs_agro_pib": 0.5429,
+    "nativa_buf5km_vs_agro_pib": 0.6571,
+    "nativa_buf10km_vs_agro_pib": 0.8857,
+    "nativa_mun_vs_pop_rural": 0.2571,
+    "nativa_buf5km_vs_pop_rural": 0.3714,
+    "nativa_buf10km_vs_pop_rural": 0.7143,
+    "nativa_mun_vs_pib_per_capita": -0.6,
+    "nativa_buf5km_vs_pib_per_capita": 0.4286,
+    "nativa_buf10km_vs_pib_per_capita": 0.4286
+  },
+  "controle_escala_qualificacao": {
+    "natureza": "Exercicio didatico de sensibilidade numerica e ilustracao do MAUP",
+    "advertencia": "A correlacao e inversao de sinal decorrem da instabilidade de postos em n=6 e do posicionamento do centroide geometrico proximo a areas urbanas, nao devendo ser interpretada como descoberta ecologica."
+  },
+  "controle_negativo": {
+    "n_permutacoes": 1000,
+    "rho_observado": 0.5429,
+    "p_valor_empirico": 0.303,
+    "ic95_nulo_inferior": -0.7714,
+    "ic95_nulo_superior": 0.7714,
+    "interpretacao": "Correlacao observada perfeitamente compativel com a variacao estocastica sob a hipotese nula (p = 0.303)."
+  },
+  "modelo_linear_exercicio": {
+    "formula": "agro_pct_pib ~ pct_nativa_mun",
+    "n": 6,
+    "intercepto": 26.5144,
+    "inclinacao": 0.4279,
+    "erro_padrao_inclinacao": 0.5083,
+    "r_quadrado": 0.1505,
+    "p_valor": 0.4473,
+    "ressalva_metodologica": "Modelo linear ajustado estritamente como exercicio didatico. Com n=6 municipios agregados, p-valores e R2 nao possuem poder probatorio."
+  }
+}

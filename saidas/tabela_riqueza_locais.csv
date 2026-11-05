@@ -1,0 +1,16 @@
+id_local,grupo,total_registros,riqueza_especies,n_com_contagem_real,nome_local,municipio
+LOC_CAI,Aves,1,1,0,Caiapônia,Caiapônia
+LOC_CAI,Flora,25,21,14,Caiapônia,Caiapônia
+LOC_JAT,Aves,22,12,0,Jataí,Jataí
+LOC_JAT,Flora,417,234,35,Jataí,Jataí
+LOC_JAT,Mammalia,5,3,0,Jataí,Jataí
+LOC_MIN,Aves,429,154,111,Mineiros,Mineiros
+LOC_MIN,Flora,426,187,72,Mineiros,Mineiros
+LOC_MIN,Mammalia,342,36,0,Mineiros,Mineiros
+LOC_PER,Aves,1,1,0,Perolândia,Perolândia
+LOC_RVE,Aves,11,9,0,Rio Verde,Rio Verde
+LOC_RVE,Flora,73,40,0,Rio Verde,Rio Verde
+LOC_RVE,Mammalia,27,14,3,Rio Verde,Rio Verde
+LOC_SER,Aves,16,14,0,Serranópolis,Serranópolis
+LOC_SER,Flora,322,126,60,Serranópolis,Serranópolis
+LOC_SER,Mammalia,7,6,0,Serranópolis,Serranópolis

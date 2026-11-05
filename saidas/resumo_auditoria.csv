@@ -1,0 +1,13 @@
+tabela,tipo_problema,gravidade,total_ocorrencias,exemplo_valor,descricao_tipo
+gbif_fauna,esforco_amostral_ausente,importante,1500,NA,Esforco amostral nao reportado (dado oportunista). Abundancias absolutas nao sao comparaveis.
+gbif_flora,esforco_amostral_ausente,importante,1500,NA,Esforco amostral nao reportado (dado oportunista). Abundancias absolutas nao sao comparaveis.
+gbif_fauna,municipio_textual_ausente,importante,1499,NA,Coluna textual de municipio ausente; localidade resolvida exclusivamente por ponto-em-poligono
+gbif_fauna,incerteza_espacial_elevada,importante,639,44293.0,Incerteza de coordenada superior a 10.000 metros (incompativel com analise de buffer local)
+gbif_fauna,registro_fora_poligonos_peld,importante,639,"Lat: -18.95399, Lon: -52.730818",Ocorrencia localizada em outros municipios da caixa sudoeste goiano (excluida do banco canonico)
+gbif_flora,registro_fora_poligonos_peld,importante,237,"Lat: -18.564167, Lon: -50.650833",Ocorrencia localizada em outros municipios da caixa sudoeste goiano (excluida do banco canonico)
+gbif_flora,sinonimia_ou_divergencia_taxonomica,importante,79,Original: 'Hesperocyparis macrocarpa (Hartw. ex Gordon) Bartel' | Aceito: 'Cupressus macrocarpa Hartw. ex Gordon',Nome taxonomico original difere do nome taxonomico aceito atualmente
+gbif_fauna,sinonimia_ou_divergencia_taxonomica,importante,77,"Original: 'Eupsittula aurea (J.F.Gmelin, 1788)' | Aceito: 'Aratinga aurea (Gmelin, 1788)'",Nome taxonomico original difere do nome taxonomico aceito atualmente
+gbif_flora,abundancia_ausente,menor,1288,NA,Contagem ausente; mantido individuos=NA e presenca=1L (nao comparavel como abundancia)
+gbif_fauna,abundancia_ausente,menor,1105,NA,Contagem ausente; mantido individuos=NA e presenca=1L (nao comparavel como abundancia)
+gbif_flora,data_imprecisa,menor,48,2025,Data registrada apenas no nivel de ano (sem dia/mes)
+minha_flora,abundancia_ausente,menor,2,NA,Contagem ausente; mantido individuos=NA e presenca=1L (nao comparavel como abundancia)
